@@ -19,7 +19,7 @@ permalink: /publications/
 ### 2019
 
 #### Journal publications
-
+ - M. Orlandić, J. Fjeldtvedt, and T. A. Johansen. [A parallel FPGA implementation of the CCSDS-123 compression algorithm.]({% link _pdfs/MDPI_2019_CCSDS.pdf %}) Remote Sensing 11, no. 6 (2019): 673.
 
 #### Conference publications
 - S. Bakken, M. Orlandic, T. A. Johansen,
