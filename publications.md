@@ -15,6 +15,7 @@ permalink: /publications/
 
 #### Conference publications
 - J. Á. Justo, E. Eide and M. Orlandić, [Compressive Sensing on Three Dimensional SFCW Ground-Penetrating Radar,]({% link _pdfs/MECO_2020_CS.pdf %}) 2020 9th Mediterranean Conference on Embedded Computing (MECO), Budva, Montenegro, 2020, pp. 1-6, doi: 10.1109/MECO49872.2020.9134267.
+
 ### 2019
 
 - S. Bakken, M. Orlandic, T. A. Johansen,
