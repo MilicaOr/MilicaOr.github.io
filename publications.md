@@ -6,6 +6,7 @@ permalink: /publications/
 
 [Google scholar publication statistics](https://scholar.google.no/citations?user=XeDtzHEAAAAJ&hl=en)
 
+### 2021
 
 ### 2020
 - S. Bakken, J. Wei, Z. Lee, G. Johnsen, T. A. Johansen, J. Montoya, A. Subramaniam,
