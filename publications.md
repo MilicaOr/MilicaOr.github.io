@@ -20,6 +20,8 @@ permalink: /publications/
 
 #### Journal publications
  - M. Orlandić, J. Fjeldtvedt, and T. A. Johansen. [A parallel FPGA implementation of the CCSDS-123 compression algorithm.]({% link _pdfs/MDPI_2019_CCSDS.pdf %}) Remote Sensing 11, no. 6 (2019): 673.
+ 
+ - M. Orlandić, and K. Svarstad. "An adaptive high-throughput edge detection filtering system using dynamic partial reconfiguration." Journal of Real-Time Image Processing 16, no. 6 (2019): 2409-2424.
 
 #### Conference publications
 - S. Bakken, M. Orlandic, T. A. Johansen,
@@ -49,6 +51,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 - M. Orlandic, and K. Svarstad. "An area efficient hardware architecture design for H. 264/AVC intra prediction reconstruction path based on partial reconfiguration." In 2013 IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS), pp. 86-91. IEEE, 2013.
 
 - M. Orlandic, and K. Svarstad. "A low complexity H. 264/AVC 4× 4 intra prediction architecture with macroblock/block reordering." In 2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig), pp. 1-6. IEEE, 2013.
+
+- M. Orlandić, and K. Svarstad. "A high-throughput and low-complexity H. 264/AVC intra 16× 16 prediction architecture for HD video sequences." In 2013 21st Telecommunications Forum Telfor (TELFOR), pp. 529-532. IEEE, 2013.
 
 ### 2010
 #### Journal publications
