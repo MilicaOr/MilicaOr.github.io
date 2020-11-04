@@ -26,12 +26,31 @@ permalink: /students/
 
 
 
-### 2020
+### 2019-2020
 
-<img src="./_images/milica.jpg" alt="drawing" width="150"/> | Some text to what they worked on, and a [link](https://duckduckgo.com) to their work or thesis
+Master students
+
+Joar Gjersund
+Mohamed Hassan Ismail
+Christoffer Boothby
+Max Montzka
+Marion Vrignaud
+Kristina Thue
+
+
+Bachelor students
+Simen Netteland
+Jon Andreas Kornberg
+Hans Robert Løhren
+Bjørn-Marius Arstad
+Erik Olav Rindal
+
+### 2018-2019
+
+Djordjije Boskovic| HSI target detection
+Karine Avagian| RL deconcolution algorithm
+Andreas Varntresk | Development of HSI camera control
 --|-------------------
-
-### 2019
 
 ### 2017-2018
 Johan Fjeldtvedt | CCSDS.123 and CubeDMA
