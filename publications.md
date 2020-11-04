@@ -19,7 +19,7 @@ permalink: /publications/
 ### 2019
 
 #### Journal publications
-Orlandić, Milica, Johan Fjeldtvedt, and Tor Arne Johansen. [A parallel FPGA implementation of the CCSDS-123 compression algorithm]({% link https://www.mdpi.com/2072-4292/11/6/673 %}) Remote Sensing 11, no. 6 (2019): 673.
+- Orlandić, Milica, Johan Fjeldtvedt, and Tor Arne Johansen. [A parallel FPGA implementation of the CCSDS-123 compression algorithm]({% link https://www.mdpi.com/2072-4292/11/6/673 %}) Remote Sensing 11, no. 6 (2019): 673.
 
 #### Conference publications
 - S. Bakken, M. Orlandic, T. A. Johansen,
@@ -30,7 +30,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 [HW/SW Implementation of Hyperspectral Target Detection Algorithm]({% link _pdfs/meco.pdf%}),
 8th Mediterranean Conference on Embedded Computing – MECO, Montenegro, 2019
 
-Avagian, Karine, Milica Orlandić, and Tor Arne Johansen. [An FPGA-oriented HW/SW Codesign of Lucy-Richardson Deconvolution Algorithm for Hyperspectral Images]({% link _pdfs/MECO_2019_DEC.pdf %}) In 2019 8th Mediterranean Conference on Embedded Computing (MECO), pp. 1-6. IEEE, 2019.
+- Avagian, Karine, Milica Orlandić, and Tor Arne Johansen. [An FPGA-oriented HW/SW Codesign of Lucy-Richardson Deconvolution Algorithm for Hyperspectral Images]({% link _pdfs/MECO_2019_DEC.pdf %}) In 2019 8th Mediterranean Conference on Embedded Computing (MECO), pp. 1-6. IEEE, 2019.
 
 ### 2018
 
