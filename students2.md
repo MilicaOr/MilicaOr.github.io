@@ -48,15 +48,27 @@ Erik Olav Rindal
 ### 2018-2019
 
 Djordjije Boskovic| HSI target detection
+--|-------------------
+
 Karine Avagian| RL deconcolution algorithm
+--|-------------------
+
 Andreas Varntresk | Development of HSI camera control
 --|-------------------
 
 ### 2017-2018
 Johan Fjeldtvedt | CCSDS.123 and CubeDMA
+--|-------------------
+
 Lars Bolstad | FPGA implementation of JPEG2000 
+--|-------------------
+
 Martin Haukali | Implementation of PCA for HSI applications
+--|-------------------
+
 Espen Moen | CCSDS.123 and CubeDMA
+--|-------------------
+
 Martin Haukali | Implementation of HSI Anomaly detection
 --|-------------------
 
