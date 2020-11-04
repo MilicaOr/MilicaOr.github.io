@@ -33,3 +33,10 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 8th Mediterranean Conference on Embedded Computing – MECO, Montenegro, 2019
 
 
+### 2019
+
+#### Journal publications
+- 
+
+### 2010
+- I. Orovic, M. Orlandic, S. Stankovic, and Z. Uskokovic. [A virtual instrument for time-frequency analysis of signals with highly nonstationary instantaneous frequency]({% link _pdfs/IEEE_2010_VI.pdf%}) IEEE transactions on Instrumentation and Measurement 60, no. 3 (2010): 791-803.
