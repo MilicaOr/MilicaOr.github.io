@@ -9,7 +9,7 @@ permalink: /publications/
 ### 2021
 
 ### 2020
-- Bošković, Đorđije, Milica Orlandić, and Tor Arne Johansen. [A reconfigurable multi-mode implementation of hyperspectral target detection algorithms.] ({% link _pdfs/monica_paper.pdf %}) Microprocessors and Microsystems 78 (2020): 103258.
+- Bošković, Đorđije, Milica Orlandić, and Tor Arne Johansen. [A reconfigurable multi-mode implementation of hyperspectral target detection algorithms.]({% link _pdfs/MICPRO_2020_TD.pdf %}) Microprocessors and Microsystems 78 (2020): 103258.
 
 ### 2019
 - M. Lapadatu, S. Bakken, M. E. Grøtte, M. Alver, T. A. Johansen,
