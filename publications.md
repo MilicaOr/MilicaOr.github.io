@@ -33,10 +33,11 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 8th Mediterranean Conference on Embedded Computing – MECO, Montenegro, 2019
 
 
-### 2019
+### 2018
 
 #### Journal publications
-- 
+- J. Fjeldtvedt, and M. Orlandić. [CubeDMA–Optimizing three-dimensional DMA transfers for hyperspectral imaging applications.]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %})Microprocessors and Microsystems 65 (2019): 23-36.
 
 ### 2010
+#### Journal publications
 - I. Orovic, M. Orlandic, S. Stankovic, and Z. Uskokovic. [A virtual instrument for time-frequency analysis of signals with highly nonstationary instantaneous frequency]({% link _pdfs/IEEE_2010_VI.pdf%}) IEEE transactions on Instrumentation and Measurement 60, no. 3 (2010): 791-803.
