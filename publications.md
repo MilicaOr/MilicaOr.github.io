@@ -26,4 +26,10 @@ permalink: /publications/
 [The effect of dimensionality reduction on signature-based target detection for hyperspectral remote sensing]({% link _pdfs/spie2019.pdf %}),
 SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for Remote Sensing III, San Diego, 2019; http://dx.doi.org/10.1117/12.2529141
 
+- K. Avagian, M. Orlandić, and T. A. Johansen. [An FPGA-oriented HW/SW Codesign of Lucy-Richardson Deconvolution Algorithm for Hyperspectral Images]({% link _pdfs/MECO_2019_DEC.pdf %}) In 2019 8th Mediterranean Conference on Embedded Computing (MECO), pp. 1-6. IEEE, 2019.
+
+- D. Bošković, M. Orlandić, S. Bakken and T. A. Johansen,
+[HW/SW Implementation of Hyperspectral Target Detection Algorithm]({% link _pdfs/meco.pdf%}),
+8th Mediterranean Conference on Embedded Computing – MECO, Montenegro, 2019
+
 
