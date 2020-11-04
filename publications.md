@@ -48,6 +48,12 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 #### Conference publications
 - M. Orlandic, and K. Svarstad. "An area efficient hardware architecture design for H. 264/AVC intra prediction reconstruction path based on partial reconfiguration." In 2013 IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS), pp. 86-91. IEEE, 2013.
 
+- M. Orlandic, and K. Svarstad. "A low complexity H. 264/AVC 4× 4 intra prediction architecture with macroblock/block reordering." In 2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig), pp. 1-6. IEEE, 2013.
+
 ### 2010
 #### Journal publications
 - I. Orovic, M. Orlandic, S. Stankovic, and Z. Uskokovic. [A virtual instrument for time-frequency analysis of signals with highly nonstationary instantaneous frequency]({% link _pdfs/IEEE_2010_VI.pdf%}) IEEE transactions on Instrumentation and Measurement 60, no. 3 (2010): 791-803.
+
+###2009
+#### Conference publications
+- I. Orović, N. Žarić, M. Orlandić, and S. Stanković. "A virtual instrument for highly concentrated time-frequency distributions." In International Conference ETAI 2009. 2009.
