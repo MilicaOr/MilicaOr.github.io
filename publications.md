@@ -19,7 +19,7 @@ permalink: /publications/
 ### 2019
 
 #### Journal publications
-- Orlandić, Milica, Johan Fjeldtvedt, and Tor Arne Johansen. [A parallel FPGA implementation of the CCSDS-123 compression algorithm]({% link href=https://www.mdpi.com/2072-4292/11/6/673 %}) Remote Sensing 11, no. 6 (2019): 673.
+- Orlandić, Milica, Johan Fjeldtvedt, and Tor Arne Johansen. [A parallel FPGA implementation of the CCSDS-123 compression algorithm]({% href=https://www.mdpi.com/2072-4292/11/6/673 %}) Remote Sensing 11, no. 6 (2019): 673.
 
 #### Conference publications
 - S. Bakken, M. Orlandic, T. A. Johansen,
