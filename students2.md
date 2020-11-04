@@ -33,9 +33,12 @@ permalink: /students/
 
 ### 2019
 
-### 2018
-<img src="./_images/sivert.png" alt="drawing" width="150"/> | Some text to what they worked on, and a [link](https://duckduckgo.com) to their work or thesis
+### 2017-2018
+Johan Fjeldtvedt | CCSDS.123 and CubeDMA
+Lars Bolstad | FPGA implementation of JPEG2000 
+Martin Haukali | Implementation of PCA for HSI applications
+Espen Moen | CCSDS.123 and CubeDMA
+Martin Haukali | Implementation of HSI Anomaly detection
 --|-------------------
 
-### 2017
 
