@@ -38,6 +38,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 #### Journal publications
 - J. Fjeldtvedt, and M. Orlandić. [CubeDMA–Optimizing three-dimensional DMA transfers for hyperspectral imaging applications.]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %})Microprocessors and Microsystems 65 (2019): 23-36.
 
+- J. Fjeldtvedt, M. Orlandić, and T. A. Johansen. [An efficient real-time FPGA implementation of the CCSDS-123 compression standard for hyperspectral images.]({% link _pdfs/CCSDS123_2018_seq.pdf%}) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 11, no. 10 (2018): 3841-3852.
+
 ### 2010
 #### Journal publications
 - I. Orovic, M. Orlandic, S. Stankovic, and Z. Uskokovic. [A virtual instrument for time-frequency analysis of signals with highly nonstationary instantaneous frequency]({% link _pdfs/IEEE_2010_VI.pdf%}) IEEE transactions on Instrumentation and Measurement 60, no. 3 (2010): 791-803.
