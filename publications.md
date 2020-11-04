@@ -4,17 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google scholar publication statistics](https://scholar.google.no/citations?user=XeDtzHEAAAAJ&hl=en)
+[Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 
-### 2021
+# Journal publications
 
 ### 2020
 - Bošković, Đorđije, Milica Orlandić, and Tor Arne Johansen. [A reconfigurable multi-mode implementation of hyperspectral target detection algorithms.]({% link _pdfs/MICPRO_2020_TD.pdf %}) Microprocessors and Microsystems 78 (2020): 103258.
 
 ### 2019
-- M. Lapadatu, S. Bakken, M. E. Grøtte, M. Alver, T. A. Johansen,
-[Simulation tool for hyper-spectral imaging from a satellite]({% link _pdfs/monica_paper.pdf %}),
-10th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Amsterdam, 2019
 
 - S. Bakken, M. Orlandic, T. A. Johansen,
 [The effect of dimensionality reduction on signature-based target detection for hyperspectral remote sensing]({% link _pdfs/spie2019.pdf %}),
@@ -25,15 +22,4 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 8th Mediterranean Conference on Embedded Computing – MECO, Montenegro, 2019
 
 
-### Other
-- M. Lapadatu,
-[Simulation tool and analysis for hyperspectral imaging of algal blooms from satellites]({% link _pdfs/monica_msc.pdf %}),
-Master thesis, 2019
-
-- S. Bakken,
-[Dimensionality Reduction and Target Detection in Hyperspectral Remote Sensing]({% link _pdfs/sivert_msc.pdf %}),
-Master thesis, 2018
-
-- S. Bakken,
-[Radiometric calibration of ocean color remote sensing instruments]({% link _pdfs/sivert_project.pdf %}),
-Project thesis, 2017
+# Conferences
