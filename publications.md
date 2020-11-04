@@ -40,6 +40,14 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 
 - J. Fjeldtvedt, M. Orlandić, and T. A. Johansen. [An efficient real-time FPGA implementation of the CCSDS-123 compression standard for hyperspectral images.]({% link _pdfs/CCSDS123_2018_seq.pdf%}) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 11, no. 10 (2018): 3841-3852.
 
+### 2014
+#### Journal publications
+I. Orović, M. Orlandić, and S. Stanković. "An image watermarking based on the pdf modeling and quantization effects in the wavelet domain." Multimedia tools and applications 70, no. 3 (2014): 1503-1519.
+
+### 2013
+#### Conference publications
+M. Orlandic, and K. Svarstad. "An area efficient hardware architecture design for H. 264/AVC intra prediction reconstruction path based on partial reconfiguration." In 2013 IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS), pp. 86-91. IEEE, 2013.
+
 ### 2010
 #### Journal publications
 - I. Orovic, M. Orlandic, S. Stankovic, and Z. Uskokovic. [A virtual instrument for time-frequency analysis of signals with highly nonstationary instantaneous frequency]({% link _pdfs/IEEE_2010_VI.pdf%}) IEEE transactions on Instrumentation and Measurement 60, no. 3 (2010): 791-803.
