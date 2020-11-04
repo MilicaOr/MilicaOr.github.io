@@ -58,6 +58,6 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 #### Journal publications
 - I. Orovic, M. Orlandic, S. Stankovic, and Z. Uskokovic. [A virtual instrument for time-frequency analysis of signals with highly nonstationary instantaneous frequency]({% link _pdfs/IEEE_2010_VI.pdf%}) IEEE transactions on Instrumentation and Measurement 60, no. 3 (2010): 791-803.
 
-###2009
+### 2009
 #### Conference publications
 - I. Orović, N. Žarić, M. Orlandić, and S. Stanković. "A virtual instrument for highly concentrated time-frequency distributions." In International Conference ETAI 2009. 2009.
