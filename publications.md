@@ -18,6 +18,10 @@ permalink: /publications/
 
 ### 2019
 
+#### Journal publications
+
+
+#### Conference publications
 - S. Bakken, M. Orlandic, T. A. Johansen,
 [The effect of dimensionality reduction on signature-based target detection for hyperspectral remote sensing]({% link _pdfs/spie2019.pdf %}),
 SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for Remote Sensing III, San Diego, 2019; http://dx.doi.org/10.1117/12.2529141
@@ -26,5 +30,21 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 [HW/SW Implementation of Hyperspectral Target Detection Algorithm]({% link _pdfs/meco.pdf%}),
 8th Mediterranean Conference on Embedded Computing – MECO, Montenegro, 2019
 
+### 2018
 
+### 2017
+
+### 2016
+
+### 2015
+
+### 2014
+
+### 2013
+
+### 2012
+
+### 2011
+
+### 2010
 
