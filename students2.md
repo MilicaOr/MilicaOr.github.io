@@ -47,14 +47,16 @@ Erik Olav Rindal
 
 ### 2018-2019
 
-Djordjije Boskovic| HSI target detection
---|-------------------
+|Djordjije Boskovic| HSI target detection
+|------------------|--------------------------------------------|
 
-Karine Avagian| RL deconcolution algorithm
---|-------------------
+|Karine Avagian| RL deconcolution algorithm
+|------------------|--------------------------------------------|
 
-Andreas Varntresk | Development of HSI camera control
---|-------------------
+
+|Andreas Varntresk | Development of HSI camera control
+|------------------|--------------------------------------------|
+
 
 ### 2017-2018
 Johan Fjeldtvedt | CCSDS.123 and CubeDMA
