@@ -9,9 +9,7 @@ permalink: /publications/
 ### 2021
 
 ### 2020
-- S. Bakken, J. Wei, Z. Lee, G. Johnsen, T. A. Johansen, J. Montoya, A. Subramaniam,
-[Hyperspectral Remote Sensing of the Amazon River Plume]({% link _pdfs/os_poster.pdf %}),
-Ocean Sciences Meeting, accepted, 2020
+- Bošković, Đorđije, Milica Orlandić, and Tor Arne Johansen. [A reconfigurable multi-mode implementation of hyperspectral target detection algorithms.] ({% link _pdfs/monica_paper.pdf %}) Microprocessors and Microsystems 78 (2020): 103258.
 
 ### 2019
 - M. Lapadatu, S. Bakken, M. E. Grøtte, M. Alver, T. A. Johansen,
