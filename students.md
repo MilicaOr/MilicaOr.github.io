@@ -6,16 +6,22 @@ permalink: /students/
 
 # Current PhD. students
 
-<img src="_images/milica.jpg" alt="drawing" width="150"/> | Some text to what they worked on, and a [link](https://duckduckgo.com) to their work or thesis
+<img src="_images/milica.jpg" alt="drawing" width="150"/> | Jon Justo Alvarez, main supervisor
+--|-------------------
+<img src="_images/milica.jpg" alt="drawing" width="150"/> | Erling Rennemo Jellum, co-supervisor
 --|-------------------
 
 # Current MSc. students
+Michal Rowicki
+
+Armin Bahadoran
+
+Aksel Gundersen
+
+Yunus Emre Koc
 
 
 # Older Students
-
-
-
 
 ### 2020
 
