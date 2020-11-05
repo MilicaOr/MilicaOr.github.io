@@ -6,9 +6,9 @@ permalink: /students/
 
 # Current PhD. students
 
-<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | Jon Justo Alvarez, main supervisor
+<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | Jon Justo Alvarez
 --|-------------------
-<img src="_images/milica.jpg" alt="drawing" width="150"/> | Erling Rennemo Jellum, co-supervisor
+<img src="_images/milica.jpg" alt="drawing" width="150"/> | Erling Rennemo Jellum
 --|-------------------
 
 # Current MSc. students
