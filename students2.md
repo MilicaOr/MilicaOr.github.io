@@ -12,19 +12,20 @@ permalink: /students/
 # Current PhD. students
 
 <img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | Jon Justo Alvarez
---|-------------------
+--|:-------------------
 <img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | Erling Rennemo Jellum
---|-------------------
+--|:-------------------
 {: .tablelines}
 
 # Current MSc. students
-| Michal Rowicki 
-
-| Armin Bahadoran 
-
-| Aksel Gundersen 
-
-| Yunus Emre Koc 
+ Michal Rowicki |
+--|:-------------------
+Armin Bahadoran | 
+--|:-------------------
+| Aksel Gundersen | 
+--|:-------------------
+| Yunus Emre Koc | 
+--|:-------------------
 {: .tablelines}
 
 # Older Students
