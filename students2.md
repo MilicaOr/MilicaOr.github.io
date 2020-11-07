@@ -50,8 +50,6 @@ permalink: /students/
 # Older Students
 
 
-
-
 ### 2019-2020
 
 Master students
@@ -67,7 +65,7 @@ Master students
 
 ### 2018-2019
 
-|Djordjije Boskovic| HSI target detection
+|Djordjije Boskovic| HSI target detection                       
 |------------------|--------------------------------------------|
 |Karine Avagian| RL deconcolution algorithm
 |------------------|--------------------------------------------|
@@ -76,16 +74,17 @@ Master students
 {: .tablelines}
 
 ### 2017-2018
-Johan Fjeldtvedt | CCSDS.123 and CubeDMA
---|-------------------
-Lars Bolstad | FPGA implementation of JPEG2000 
---|-------------------
-Martin Haukali | Implementation of PCA for HSI applications
---|-------------------
-Espen Moen | CCSDS.123 and CubeDMA
---|-------------------
-Martin Haukali | Implementation of HSI Anomaly detection
---|-------------------
+
+|Johan Fjeldtvedt | CCSDS.123 and CubeDMA
+|--|-------------------
+|Lars Bolstad | FPGA implementation of JPEG2000 
+|--|-------------------
+|Martin Haukali | Implementation of PCA for HSI applications
+|--|-------------------
+|Espen Moen | CCSDS.123 and CubeDMA
+|--|-------------------
+|Martin Haukali | Implementation of HSI Anomaly detection
+|--|-------------------
 {: .tablelines}
 
 
