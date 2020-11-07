@@ -12,13 +12,13 @@ permalink: /students/
 --|-------------------
 
 # Current MSc. students
-Michal Rowicki
+| Michal Rowicki |
 
-Armin Bahadoran
+| Armin Bahadoran |
 
-Aksel Gundersen
+| Aksel Gundersen |
 
-Yunus Emre Koc
+| Yunus Emre Koc | 
 
 
 # Older Students
