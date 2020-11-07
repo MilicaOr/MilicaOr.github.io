@@ -13,7 +13,9 @@ permalink: /students/
 
 <img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Jon Justo Alvarez](https://www.ntnu.no/ansatte/jonalv)
 --|:-------------------
-<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
+{% include image.html url="https://www.ntnu.no/ansatte/erling.r.jellum"
+max-width="150px" file="/_images/Profile_pic_jon.jpg" alt="Jekyll logo"
+caption="This is the Jekyll logo." %} | [Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 --|:-------------------
 {: .tablelines}
 
