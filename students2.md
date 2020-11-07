@@ -22,12 +22,6 @@ permalink: /students/
 <col width="30%" />
 <col width="70%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Current master students</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td markdown="span"> <img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/>  </td>
