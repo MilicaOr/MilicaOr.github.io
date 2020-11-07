@@ -13,18 +13,18 @@ permalink: /students/
 
 <img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | Jon Justo Alvarez
 --|:-------------------
-<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | Erling Rennemo Jellum
+{% include image.html file="_images/Profile_pic_jon.jpg" url="https://www.ntnu.no/ansatte/erling.r.jellum" alt="Jekyll"  %} | [Erling Rennemo Jellum]{https://www.ntnu.no/ansatte/erling.r.jellum}
 --|:-------------------
 {: .tablelines}
 
 # Current MSc. students
- Michal Rowicki |
+ | Michal Rowicki 
 --|:-------------------
-Armin Bahadoran | 
+ | Armin Bahadoran
 --|:-------------------
-| Aksel Gundersen | 
+ | Aksel Gundersen
 --|:-------------------
-| Yunus Emre Koc | 
+ | Yunus Emre Koc  
 --|:-------------------
 {: .tablelines}
 
