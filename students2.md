@@ -5,7 +5,7 @@ permalink: /students/
 ---
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
+        border: 0.5px solid black;
         }
 </style>
 
@@ -18,6 +18,7 @@ permalink: /students/
 {: .tablelines}
 
 # Current MSc. students
+
  | Michal Rowicki 
 --|:-------------------
  | Armin Bahadoran
