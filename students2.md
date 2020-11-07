@@ -11,9 +11,9 @@ permalink: /students/
 
 # Current PhD. students
 
-<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | Jon Justo Alvarez
+<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Jon Justo Alvarez](https://www.ntnu.no/ansatte/jonalv)
 --|:-------------------
-<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Erling Rennemo Jellum]{https://www.ntnu.no/ansatte/erling.r.jellum }
+<img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 --|:-------------------
 {: .tablelines}
 
