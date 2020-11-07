@@ -25,11 +25,11 @@ permalink: /students/
 <tbody>
 <tr>
 <td markdown="span"> <img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/>  </td>
-<td markdown="span">[Erling Rennemo Jellum]{https://www.ntnu.no/ansatte/erling.r.jellum }</td>
+<td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)</td>
 </tr>
 <tr>
 <td markdown="span"><img src="_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> </td>
-<td markdown="span">[Erling Rennemo Jellum]{https://www.ntnu.no/ansatte/erling.r.jellum }
+<td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 </td>
 </tr>
 </tbody>
