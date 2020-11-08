@@ -13,7 +13,7 @@ permalink: /students/
 
 <img src="/_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Jon Justo Alvarez](https://www.ntnu.no/ansatte/jonalv)
 --|:-------------------
-<img src="/_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
+<img src="/_images/no_photo.png" alt="drawing" width="150"/> | [Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 --|:-------------------
 {: .tablelines}
 
@@ -22,19 +22,15 @@ permalink: /students/
 <col width="30%" />
 <col width="70%" />
 </colgroup>
-<thead>
-</thead>
-<tbody>
 <tr>
 <td markdown="span"> <img src="/_images/Profile_pic_jon.jpg" alt="drawing" width="150"/>  </td>
 <td markdown="span">[Jon Justo Alvarez](https://www.ntnu.no/ansatte/jonalv)</td>
 </tr>
 <tr>
-<td markdown="span"><img src="/_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> </td>
+<td markdown="span"><img src="/_images/no_photo_png" alt="drawing" width="150"/> </td>
 <td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 </td>
 </tr>
-</tbody>
 </table>
 
 # Current MSc. students
