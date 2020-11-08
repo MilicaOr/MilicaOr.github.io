@@ -3,9 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-<head>
+<header>
  <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
-<\head>
+</header>
 <i class="ai ai-google-scholar-square ai-3x"></i> [Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 
 
