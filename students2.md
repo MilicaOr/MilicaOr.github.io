@@ -78,7 +78,7 @@ permalink: /students/
 </tr>
         <tr>
 <td markdown="span"> Christoffer Boothby </td>
-<td markdown="span"> Anomaly Detection in Hyperspectral Images </td>
+<td markdown="span"> A software implementation of the CCSDS 123Issue 2 compression standard </td>
 </tr>
 <tr>
 <td markdown="span"> Joar Gjersund  </td>
