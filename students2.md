@@ -63,13 +63,14 @@ permalink: /students/
 
 ### 2019-2020
 
-Master students
 
 <table>
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
+ <tr>
+ </tr>
         <tr>
 <td markdown="span"> Jon Alvarez Justo </td>
 <td markdown="span"> Compressive Sensing on Ground-Penetrating Radar</td>
