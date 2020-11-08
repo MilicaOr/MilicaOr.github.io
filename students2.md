@@ -151,7 +151,7 @@ Implementation </td>
 <td markdown="span"> [Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
 </tr>  
 <tr>
-<td markdown="span"> Aysel Karimova] </td>
+<td markdown="span"> Aysel Karimova </td>
 <td markdown="span"> [[SmallSat] FPGA Implementation of PCA Dimensionality Reduction Technique](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561825) </td>
 </tr>
 <tr>
