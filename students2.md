@@ -5,7 +5,7 @@ permalink: /students/
 ---
 
 
-# Current PhD. students
+## PhD. students
 
 
 <table>
@@ -24,8 +24,9 @@ permalink: /students/
 </tr>
 </table>
 
-# Current MSc. students
+## MSc. students
 
+### 2020-2021
 <table>
 <colgroup>
 <col width="30%" />
@@ -59,7 +60,7 @@ permalink: /students/
 </table>
 
 
-# Older Students
+
 
 ### 2019-2020
 
