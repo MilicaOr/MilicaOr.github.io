@@ -25,14 +25,15 @@ permalink: /projects/
 <td markdown="span"> Efficient Learning and Optimization Tools for Hyperspectral Imaging Systems (ELO-Hyp)</td>
 <td markdown="span"> NO Grants 2014-2021</td>
 </tr>
-        
 </table>
 ### MASSIVE project
-
-2017-2021
 
 We have proposed a concerted and unified cross-disciplinary focus on designing, building and operating small satellites as parts of an autonomous system for marine observation, surveillance and communication. 
 
 ### ADRASSO project
 
-Some stuff about project 2
+The  consortium working on ADRASSO project consists of DNV GL, Norsk Elektro Optikk, Idletechs, NTNU  and Jotun.
+
+### Elo-Hyp
+
+The  consortium working on Elo-Hyp project consists of  University Politehnica of Bucharest, NTNU, University of Bucharest and Clinical Coltea Hospital.
