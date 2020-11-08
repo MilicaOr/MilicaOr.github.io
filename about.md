@@ -4,10 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Research Associate Professor at NTNU
+I am currently a Research Associate Professor in Electronic Systems Engineering at NTNU
 
 ### Current Focus
-A lot of things
+
+Image processing, Hyperspectral imaging; Compression (Image, Video, HSI), Remote sensing, Compressive sensing; 
+
+High-performance computing; Digital design, Reconfigurable computing and FPGAs, Systems-on-the chip/module, embedded systems, electronic systems engineering, satellite payload systems, 
 
 ### Where to Find Me
 <p align="center">
