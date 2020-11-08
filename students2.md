@@ -140,15 +140,15 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Johan Fjeldtvedt </td>
-<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
+<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
 </tr>
 <tr>
 <td markdown="span">Lars Bolstad </td>
-<td markdown="span">[JPEG2000 Compression Software/Hardware Codesign] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615956) </td>
+<td markdown="span">[JPEG2000 Compression Software/Hardware Codesign](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615956) </td>
 </tr>
 <tr>
 <td markdown="span"> Espen Moen </td>
-<td markdown="span"> [Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
+<td markdown="span"> [Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
 </tr>  
 <tr>
 <td markdown="span"> Aysel Karimova </td>
@@ -156,7 +156,7 @@ Implementation </td>
 </tr>
 <tr>
 <td markdown="span"> Martin Haukali </td>
-<td markdown="span"> [FPGA Implementation of Hyperspectral Anomaly Detection Algorithm] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561826)</td>
+<td markdown="span"> [FPGA Implementation of Hyperspectral Anomaly Detection Algorithm](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561826)</td>
 </tr>
         
 </table>
