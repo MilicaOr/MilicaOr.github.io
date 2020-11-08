@@ -117,16 +117,16 @@ Implementation </td>
 <col width="70%" />
 </colgroup>
 <tr>
-<td markdown="span"> [Karine Avagian](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662)  </td>
-<td markdown="span">An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images </td>
+<td markdown="span"> Karine Avagian  </td>
+<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) </td>
 </tr>
 <tr>
-<td markdown="span">[Djordjije Boskovic] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684) </td>
-<td markdown="span">Hardware implementation of a target detection algorithm for hyperspectral images </td>
+<td markdown="span">Djordjije Boskovic  </td>
+<td markdown="span">[Hardware implementation of a target detection algorithm for hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684) </td>
 </tr>
 <tr>
-<td markdown="span"> [Andreas Varntresk](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624678) </td>
-<td markdown="span"> Assembly and testing of baseline processing chain </td>
+<td markdown="span"> Andreas Varntresk </td>
+<td markdown="span"> [Assembly and testing of baseline processing chain](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624678) </td>
 </tr>    
 </table>
 
@@ -138,24 +138,24 @@ Implementation </td>
 <col width="70%" />
 </colgroup>
 <tr>
-<td markdown="span"> [Johan Fjeldtvedt ](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)  </td>
-<td markdown="span">An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images </td>
+<td markdown="span"> Johan Fjeldtvedt </td>
+<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
 </tr>
 <tr>
-<td markdown="span">[Lars Bolstad] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615956) </td>
-<td markdown="span">JPEG2000 Compression Software/Hardware Codesign </td>
+<td markdown="span">Lars Bolstad </td>
+<td markdown="span">[JPEG2000 Compression Software/Hardware Codesign] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615956) </td>
 </tr>
 <tr>
-<td markdown="span"> [Espen Moen](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
-<td markdown="span"> Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction </td>
+<td markdown="span"> Espen Moen </td>
+<td markdown="span"> [Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
 </tr>  
 <tr>
-<td markdown="span"> [Aysel Karimova](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561825) </td>
-<td markdown="span"> [SmallSat] FPGA Implementation of PCA Dimensionality Reduction Technique </td>
+<td markdown="span"> Aysel Karimova] </td>
+<td markdown="span"> [[SmallSat] FPGA Implementation of PCA Dimensionality Reduction Technique](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561825) </td>
 </tr>
 <tr>
-<td markdown="span"> [Martin Haukali](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561826) </td>
-<td markdown="span"> FPGA Implementation of Hyperspectral Anomaly Detection Algorithm</td>
+<td markdown="span"> Martin Haukali </td>
+<td markdown="span"> [FPGA Implementation of Hyperspectral Anomaly Detection Algorithm] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561826)</td>
 </tr>
         
 </table>
