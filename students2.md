@@ -3,19 +3,10 @@ layout: page
 title: Students
 permalink: /students/
 ---
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 0.5px solid black;
-        }
-</style>
+
 
 # Current PhD. students
 
-<img src="/_images/Profile_pic_jon.jpg" alt="drawing" width="150"/> | [Jon Justo Alvarez](https://www.ntnu.no/ansatte/jonalv)
---|:-------------------
-<img src="/_images/No_photo.png" alt="drawing" width="150"/> | [Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
---|:-------------------
-{: .tablelines}
 
 <table>
 <colgroup>
@@ -79,6 +70,14 @@ Master students
 <col width="30%" />
 <col width="70%" />
 </colgroup>
+        <tr>
+<td markdown="span"> Jon Alvarez Justo </td>
+<td markdown="span"> Compressive Sensing on Ground-Penetrating Radar</td>
+</tr>
+        <tr>
+<td markdown="span"> Christoffer Boothby </td>
+<td markdown="span"> Anomaly Detection in Hyperspectral Images </td>
+</tr>
 <tr>
 <td markdown="span"> Joar Gjersund  </td>
 <td markdown="span">A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat </td>
@@ -87,18 +86,11 @@ Master students
 <td markdown="span"> Mohamed Hassan Ismail </td>
 <td markdown="span"> HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm</td>
 </tr>
-<tr>
-<td markdown="span"> Christoffer Boothby </td>
-<td markdown="span"> Anomaly Detection in Hyperspectral Images </td>
-</tr>
         <tr>
 <td markdown="span"> Max Montzka </td>
 <td markdown="span"> Fast Spectrograph Corrections on Programmable Logic </td>
 </tr>
-<tr>
-<td markdown="span"> Kristina Thue </td>
-<td markdown="span"> Accelerating compact CNN models for image segmentation using Vivado HLS </td>
-</tr>
+
 <tr>
 <td markdown="span"> David Barahona Pereira </td>
 <td markdown="span"> Virtual Prototypes for Embedded Software Testing: A SystemC Based Proof of Concept
@@ -108,6 +100,10 @@ Implementation </td>
 <td markdown="span"> Motaz Ibrahim Ahmad Thiab </td>
 <td markdown="span"> Virtual prototype of low-power digital architectures in SystemC </td>
 </tr>
+<tr>
+<td markdown="span"> Kristina Thue </td>
+<td markdown="span"> Accelerating compact CNN models for image segmentation using Vivado HLS </td>
+</tr>
         
 </table>
 
@@ -115,43 +111,54 @@ Implementation </td>
 ### 2018-2019
 
 
-|Djordjije Boskovic| HSI target detection                       
-|------------------|--------------------------------------------|
-|Karine Avagian| RL deconcolution algorithm
-|------------------|--------------------------------------------|
-|Andreas Varntresk | Development of HSI camera control
-|------------------|--------------------------------------------|
 <table>
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
 <tr>
-<td markdown="span"> Karine Avagian  </td>
+<td markdown="span"> [Karine Avagian](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662)  </td>
 <td markdown="span">An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images </td>
 </tr>
 <tr>
-<td markdown="span">Djordjije Boskovic </td>
+<td markdown="span">[Djordjije Boskovic] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684) </td>
 <td markdown="span">Hardware implementation of a target detection algorithm for hyperspectral images </td>
 </tr>
 <tr>
-<td markdown="span"> Andreas Varntresk </td>
+<td markdown="span"> [Andreas Varntresk](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624678) </td>
 <td markdown="span"> Assembly and testing of baseline processing chain </td>
 </tr>    
 </table>
 
 ### 2017-2018
 
-|Johan Fjeldtvedt | CCSDS.123 and CubeDMA
-|--|-------------------
-|Lars Bolstad | FPGA implementation of JPEG2000 
-|--|-------------------
-|Martin Haukali | Implementation of PCA for HSI applications
-|--|-------------------
-|Espen Moen | CCSDS.123 and CubeDMA
-|--|-------------------
-|Martin Haukali | Implementation of HSI Anomaly detection
-|--|-------------------
-{: .tablelines}
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<tr>
+<td markdown="span"> [Johan Fjeldtvedt ](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)  </td>
+<td markdown="span">An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images </td>
+</tr>
+<tr>
+<td markdown="span">[Lars Bolstad] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615956) </td>
+<td markdown="span">JPEG2000 Compression Software/Hardware Codesign </td>
+</tr>
+<tr>
+<td markdown="span"> [Espen Moen](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
+<td markdown="span"> Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction </td>
+</tr>  
+<tr>
+<td markdown="span"> [Aysel Karimova](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561825) </td>
+<td markdown="span"> [SmallSat] FPGA Implementation of PCA Dimensionality Reduction Technique </td>
+</tr>
+<tr>
+<td markdown="span"> [Martin Haukali](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561826) </td>
+<td markdown="span"> FPGA Implementation of Hyperspectral Anomaly Detection Algorithm</td>
+</tr>
+        
+</table>
+
 
 
