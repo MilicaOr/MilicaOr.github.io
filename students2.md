@@ -162,5 +162,18 @@ Implementation </td>
         
 </table>
 
+### 2016-2017
 
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<tr>
+<td markdown="span"> Lars Erik Songe Paulsen  </td>
+<td markdown="span">[Design and Analysis of HEVC compliant CABAC Architecture](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
+</tr>
+
+        
+</table>
 
