@@ -44,29 +44,28 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 - M.Orlandić, K. Svarstad, “High-Throughput Adaptive Edge Detection Filtering System using Dynamic Partial Reconﬁguration”, Springer Journal on Real Time Image Processing, accepted in January 2018
 
 
-### 2017
+### 2014 - 2017
+#### Journal publications
+
 - M.Orlandić, K. Svarstad, “An Eﬃcient Hardware Architecture of CAVLC Encoder Based on Stream Processing “, Elsevier Microprocessors and Microsystems, vol.67, 43-47, September 2017 
 
-### 2016 
 - M. Orlandić, K. Svarstad, “A Low-Complexity MPEG-2 to H.264/AVC Wavefront Intra-Frame Transcoder Architecture”, Springer Journal on Real Time Image Processing, May 2016
-
-### 2015 
 
 - M. Orlandić, K. Svarstad, “An MPEG-2 to H.264/AVC Intra-frame Transcoder Architecture with Mode Decision performed in DCT domain”, IEEE Transactions on Consumers Electronics 61(1), 81-89, 2015
 
-### 2014
-#### Journal publications
 - I. Orović, M. Orlandić, and S. Stanković. "An image watermarking based on the pdf modeling and quantization effects in the wavelet domain." Multimedia tools and applications 70, no. 3 (2014): 1503-1519.
 
 - M. Orlandić, K. Svarstad, “A High-Throughput and Low-Complexity H.264/AVC Intra 16x16 Prediction Architecture for HD video sequences”, Telfor Journal, 6(2), 2014
 
 ### 2009 - 2013
 #### Journal publications
+
 - I. Orović, M. Orlandic, S. Stankovic, and Z. Uskokovic. [A virtual instrument for time-frequency analysis of signals with highly nonstationary instantaneous frequency]({% link _pdfs/IEEE_2010_VI.pdf%}) IEEE transactions on Instrumentation and Measurement 60, no. 3 (2010): 791-803.
 
 - S. M. Perovich, M. Orlandić, M. Ćalasan, "Concerning exact analytical STFT solutions to some families of inverse problems in engineering material theory," Applied Mathematical Modelling, 2013
 
 #### Conference publications
+
 - M. Orlandić, and K. Svarstad. "An area efficient hardware architecture design for H. 264/AVC intra prediction reconstruction path based on partial reconfiguration." In 2013 IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS), pp. 86-91. IEEE, 2013.
 
 - M. Orlandić, and K. Svarstad. "A low complexity H. 264/AVC 4× 4 intra prediction architecture with macroblock/block reordering." In 2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig), pp. 1-6. IEEE, 2013.
@@ -79,4 +78,4 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 
 - M. Orlandić, I. Orović, S. Stanković, “An image watermarking technique with optimal detection in the wavelet transform domain”, ETRAN, Vrnjacka Banja, Serbia June 2009 
 
-- 3.	S.M. Perovich, M. Orlandic, R. Toskovic, “On the exact analytical closed form solution of the Saho ionization inverse equation”, VI International Seminar on mathematical models and modelling in Laser - Plasma Processes 2009, Budva, Montenegro, May 2009
+- S.M. Perovich, M. Orlandic, R. Toskovic, “On the exact analytical closed form solution of the Saho ionization inverse equation”, VI International Seminar on mathematical models and modelling in Laser - Plasma Processes 2009, Budva, Montenegro, May 2009
