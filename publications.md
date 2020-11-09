@@ -49,9 +49,9 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 
 - M.Orlandić, K. Svarstad, [An Eﬃcient Hardware Architecture of CAVLC Encoder Based on Stream Processing](% link _pdfs/MicroJ_2018_CAVLC.pdf%), Elsevier Microprocessors and Microsystems, vol.67, 43-47, September 2017 
 
-- M. Orlandić, K. Svarstad, “A Low-Complexity MPEG-2 to H.264/AVC Wavefront Intra-Frame Transcoder Architecture”, Springer Journal on Real Time Image Processing, May 2016
+- M. Orlandić, K. Svarstad,[A Low-Complexity MPEG-2 to H.264/AVC Wavefront Intra-Frame Transcoder Architecture](% link _pdfs/JRTIP_2016_transcoder%), Springer Journal on Real Time Image Processing, May 2016
 
-- M. Orlandić, K. Svarstad, “An MPEG-2 to H.264/AVC Intra-frame Transcoder Architecture with Mode Decision performed in DCT domain”, IEEE Transactions on Consumers Electronics 61(1), 81-89, 2015
+- M. Orlandić, K. Svarstad, [An MPEG-2 to H.264/AVC Intra-frame Transcoder Architecture with Mode Decision performed in DCT domain](% link _pdfs/CE_2015_transcoder.pdf%), IEEE Transactions on Consumers Electronics 61(1), 81-89, 2015
 
 - I. Orović, M. Orlandić, and S. Stanković. "An image watermarking based on the pdf modeling and quantization effects in the wavelet domain." Multimedia tools and applications 70, no. 3 (2014): 1503-1519.
 
