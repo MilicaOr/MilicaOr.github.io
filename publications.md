@@ -21,7 +21,7 @@ permalink: /publications/
 #### Journal publications
  - M. Orlandić, J. Fjeldtvedt, and T. A. Johansen. [A parallel FPGA implementation of the CCSDS-123 compression algorithm.]({% link _pdfs/MDPI_2019_CCSDS.pdf %}) Remote Sensing 11, no. 6 (2019): 673.
  
- - M. Orlandić, and K. Svarstad. "An adaptive high-throughput edge detection filtering system using dynamic partial reconfiguration." Journal of Real-Time Image Processing 16, no. 6 (2019): 2409-2424.
+ - M. Orlandić, and K. Svarstad. [An adaptive high-throughput edge detection filtering system using dynamic partial reconfiguration.](% link _pdfs/JRTIP_2018_filter.pdf % ), Journal of Real-Time Image Processing 16, no. 6 (2019): 2409-2424.
 
 #### Conference publications
 - S. Bakken, M. Orlandic, T. A. Johansen,
@@ -42,13 +42,12 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 
 - J. Fjeldtvedt, M. Orlandić, and T. A. Johansen. [An efficient real-time FPGA implementation of the CCSDS-123 compression standard for hyperspectral images.]({% link _pdfs/CCSDS123_2018_seq.pdf%}) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 11, no. 10 (2018): 3841-3852.
 
-- M.Orlandić, K. Svarstad, “High-Throughput Adaptive Edge Detection Filtering System using Dynamic Partial Reconﬁguration”, Springer Journal on Real Time Image Processing, accepted in January 2018
 
 
 ### 2014 - 2017
 #### Journal publications
 
-- M.Orlandić, K. Svarstad, “An Eﬃcient Hardware Architecture of CAVLC Encoder Based on Stream Processing “, Elsevier Microprocessors and Microsystems, vol.67, 43-47, September 2017 
+- M.Orlandić, K. Svarstad, [An Eﬃcient Hardware Architecture of CAVLC Encoder Based on Stream Processing](% link _pdfs/MicroJ_2018_CAVLC%), Elsevier Microprocessors and Microsystems, vol.67, 43-47, September 2017 
 
 - M. Orlandić, K. Svarstad, “A Low-Complexity MPEG-2 to H.264/AVC Wavefront Intra-Frame Transcoder Architecture”, Springer Journal on Real Time Image Processing, May 2016
 
