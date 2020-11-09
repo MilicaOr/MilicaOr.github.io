@@ -3,7 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-{% a_svg google-scholar %}[Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
+
+[Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 
 
 
