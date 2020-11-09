@@ -56,7 +56,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 
 - I. Orović, M. Orlandić, and S. Stanković. "An image watermarking based on the pdf modeling and quantization effects in the wavelet domain." Multimedia tools and applications 70, no. 3 (2014): 1503-1519.
 
-- M. Orlandić, K. Svarstad, “A High-Throughput and Low-Complexity H.264/AVC Intra 16x16 Prediction Architecture for HD video sequences”, Telfor Journal, 6(2), 2014
+- M. Orlandić, K. Svarstad, [A High-Throughput and Low-Complexity H.264/AVC Intra 16x16 Prediction Architecture for HD video sequences](% link TELFOR_2014_intra16.pdf
+%), Telfor Journal, 6(2), 2014
 
 ### 2009 - 2013
 #### Journal publications
