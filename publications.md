@@ -53,7 +53,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 
 - M. Orlandić, K. Svarstad, [An MPEG-2 to H.264/AVC Intra-frame Transcoder Architecture with Mode Decision performed in DCT domain](% link _pdfs/CE_2015_transcoder.pdf%), IEEE Transactions on Consumers Electronics 61(1), 81-89, 2015
 
-- I. Orović, M. Orlandić, and S. Stanković. "An image watermarking based on the pdf modeling and quantization effects in the wavelet domain." Multimedia tools and applications 70, no. 3 (2014): 1503-1519.
+- I. Orović, M. Orlandić, and S. Stanković. [An image watermarking based on the pdf modeling and quantization effects in the wavelet domain](% link _pdfs/IEEE_2014_WAVELETS.pdf%) Multimedia tools and applications 70, no. 3 (2014): 1503-1519.
 
 - M. Orlandić, K. Svarstad, [A High-Throughput and Low-Complexity H.264/AVC Intra 16x16 Prediction Architecture for HD video sequences](% link TELFOR_2014_intra16.pdf
 %), Telfor Journal, 6(2), 2014
