@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Research Associate Professor in Electronic Systems Engineering at NTNU
+Milica Orlandić received a B.Sc. and M.Sc. degrees in electrical engineering from the University of Montenegro in 2007 and 2009. She received a Ph.D. degree from Norwegian University of Science and Technology (NTNU) in 2015 in electronics. She is currently holding the position of Associate Professor in Electronic Systems engineering at NTNU. 
+
+### milica.orlandic@ntnu.no 
 
 ### Current Focus
 
