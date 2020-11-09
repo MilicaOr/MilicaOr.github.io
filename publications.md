@@ -47,7 +47,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 ### 2014 - 2017
 #### Journal publications
 
-- M.Orlandić, K. Svarstad, [An Eﬃcient Hardware Architecture of CAVLC Encoder Based on Stream Processing](% link _pdfs/MicroJ_2018_CAVLC%), Elsevier Microprocessors and Microsystems, vol.67, 43-47, September 2017 
+- M.Orlandić, K. Svarstad, [An Eﬃcient Hardware Architecture of CAVLC Encoder Based on Stream Processing](% link _pdfs/MicroJ_2018_CAVLC.pdf%), Elsevier Microprocessors and Microsystems, vol.67, 43-47, September 2017 
 
 - M. Orlandić, K. Svarstad, “A Low-Complexity MPEG-2 to H.264/AVC Wavefront Intra-Frame Transcoder Architecture”, Springer Journal on Real Time Image Processing, May 2016
 
