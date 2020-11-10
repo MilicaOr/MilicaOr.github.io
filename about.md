@@ -7,6 +7,7 @@ permalink: /about/
 ### Short CV
 I received a B.Sc. and M.Sc. degrees in electrical engineering from the University of Montenegro in 2007 and 2009. I received a Ph.D. degree from Norwegian University of Science and Technology (NTNU) in 2015 in electronics. I am currently holding the position of Associate Professor in Electronic Systems engineering at NTNU. 
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6304-1999" href="https://orcid.org/0000-0002-6304-1999" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6304-1999</a></div>
 
 ### Current Focus
 
