@@ -141,7 +141,7 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Johan Fjeldtvedt </td>
-<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
+<td markdown="span">[Efficient Streaming and Compression of Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
 </tr>
 <tr>
 <td markdown="span">Lars Bolstad </td>
