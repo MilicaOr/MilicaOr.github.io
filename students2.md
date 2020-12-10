@@ -147,7 +147,7 @@ Implementation" </td>
 <td markdown="span"> Johan Fjeldtvedt </td>
 <td markdown="span">["Efficient Streaming and Compression of Hyperspectral Images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
 <br> Publications: [CubeDMA]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %}), [CCSDS-123 sequential]({% link _pdfs/CCSDS123_2018_seq.pdf%}), [CCSDS-123 parallel](https://www.mdpi.com/2072-4292/11/6/673)
-<br> Awards: [FPGA forum award 2019](http://www.fpga-forum.no/awards/), 2019 NTNU Award for best master's thesis in microelectronics  
+<br> Awards: 2019 NTNU Award for best master's thesis in microelectronics, [FPGA forum award 2019](http://www.fpga-forum.no/awards/)  
       </td>
 </tr>
 <tr>
