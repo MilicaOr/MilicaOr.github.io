@@ -75,7 +75,7 @@ permalink: /students/
         <tr>
 <td markdown="span"> Jon Alvarez Justo </td>
 <td markdown="span"> "Compressive Sensing on Ground-Penetrating Radar"
-               <br> Publications: [MECO conference 2020]{% link _pdfs/MECO_2020_CS.pdf %}</td>
+               <br> Publications: [MECO conference 2020]({% link _pdfs/MECO_2020_CS.pdf %})</td>
 </tr>
         <tr>
 <td markdown="span"> Christoffer Boothby </td>
