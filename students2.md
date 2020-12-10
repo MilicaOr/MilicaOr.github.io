@@ -86,7 +86,7 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Mohamed Hassan Ismail </td>
-<td markdown="span"> HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm <br> Result: [MDPI Algorithms article] (https://www.mdpi.com/1999-4893/13/12/330/htm) </td>
+<td markdown="span"> HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm <br> Result: [MDPI Algorithms article](https://www.mdpi.com/1999-4893/13/12/330/htm) </td>
 </tr>
 <tr>
 <td markdown="span"> Max Montzka </td>
@@ -120,12 +120,12 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Karine Avagian  </td>
-<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) <br> Result: [MECO conference article]() </td>
+<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) <br> Result: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}) </td>
 </tr>
 <tr>
 <td markdown="span">Djordjije Boskovic  </td>
 <td markdown="span">[Hardware implementation of a target detection algorithm for hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
-<br> Result: [MECO conference article]()        </td>
+<br> Result: [NIFRO pris](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/), [MECO conference article]({% link _pdfs/meco.pdf%})        </td>
 </tr>
 <tr>
 <td markdown="span"> Andreas Varntresk </td>
