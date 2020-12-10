@@ -120,16 +120,18 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Karine Avagian  </td>
-<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) <br> Result: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}) </td>
+<td markdown="span">["An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) 
+<br> Articles: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}) </td>
 </tr>
 <tr>
 <td markdown="span">Djordjije Boskovic  </td>
-<td markdown="span">[Hardware implementation of a target detection algorithm for hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
-<br> Result: [NIFRO award 2020](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/), [MECO conference article]({% link _pdfs/meco.pdf%}), [MICPRO article]({% link _pdfs/MICPRO_2020_TD.pdf %})        </td>
+<td markdown="span">["Hardware implementation of a target detection algorithm for hyperspectral images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
+<br> Articles: [MECO conference article]({% link _pdfs/meco.pdf%}), [MICPRO article]({% link _pdfs/MICPRO_2020_TD.pdf %})  
+<br> [NIFRO award 2020](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/)       </td>
 </tr>
 <tr>
 <td markdown="span"> Andreas Varntresk </td>
-<td markdown="span"> [Assembly and testing of baseline processing chain](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624678) </td>
+<td markdown="span"> ["Assembly and testing of baseline processing chain"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624678) </td>
 </tr>    
 </table>
 
@@ -142,26 +144,26 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Johan Fjeldtvedt </td>
-<td markdown="span">[Efficient Streaming and Compression of Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
-<br> [CubeDMA]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %}), [CCSDS-123 sequential]({% link _pdfs/CCSDS123_2018_seq.pdf%}), [CCSDS-123 parallel](https://www.mdpi.com/2072-4292/11/6/673)
-<br> [FPGA forum prize 2019](http://www.fpga-forum.no/awards/), 2019 Award for best master's thesis in microelectronics at NTNU    
+<td markdown="span">["Efficient Streaming and Compression of Hyperspectral Images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
+<br> Articles: [CubeDMA]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %}), [CCSDS-123 sequential]({% link _pdfs/CCSDS123_2018_seq.pdf%}), [CCSDS-123 parallel](https://www.mdpi.com/2072-4292/11/6/673)
+<br> Awards: [FPGA forum award 2019](http://www.fpga-forum.no/awards/), 2019 Award for best master's thesis in microelectronics at NTNU    
       </td>
 </tr>
 <tr>
 <td markdown="span">Lars Bolstad </td>
-<td markdown="span">[JPEG2000 Compression Software/Hardware Codesign](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615956) </td>
+<td markdown="span">["JPEG2000 Compression Software/Hardware Codesign"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2615956) </td>
 </tr>
 <tr>
 <td markdown="span"> Espen Moen </td>
-<td markdown="span"> [Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
+<td markdown="span"> ["Onboard Data Processing Pipeline and Software/Hardware Implementation of Extended Multiplicative Signal Correction"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2564444) </td>
 </tr>  
 <tr>
 <td markdown="span"> Aysel Karimova </td>
-<td markdown="span"> [[SmallSat] FPGA Implementation of PCA Dimensionality Reduction Technique](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561825) </td>
+<td markdown="span"> ["[SmallSat] FPGA Implementation of PCA Dimensionality Reduction Technique"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561825) </td>
 </tr>
 <tr>
 <td markdown="span"> Martin Haukali </td>
-<td markdown="span"> [FPGA Implementation of Hyperspectral Anomaly Detection Algorithm](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561826)</td>
+<td markdown="span"> ["FPGA Implementation of Hyperspectral Anomaly Detection Algorithm"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2561826)</td>
 </tr>
         
 </table>
@@ -175,7 +177,7 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Lars Erik Songe Paulsen  </td>
-<td markdown="span">[Design and Analysis of HEVC compliant CABAC Architecture](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
+<td markdown="span">["Design and Analysis of HEVC compliant CABAC Architecture"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
 <br> 2018 Award for best master's thesis in microelectronics at NTNU            
         </td>
 </tr>
