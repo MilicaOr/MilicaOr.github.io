@@ -74,19 +74,20 @@ permalink: /students/
  </tr>
         <tr>
 <td markdown="span"> Jon Alvarez Justo </td>
-<td markdown="span"> Compressive Sensing on Ground-Penetrating Radar</td>
+<td markdown="span"> "Compressive Sensing on Ground-Penetrating Radar"</td>
 </tr>
         <tr>
 <td markdown="span"> Christoffer Boothby </td>
-<td markdown="span"> A software implementation of the CCSDS 123Issue 2 compression standard </td>
+<td markdown="span"> "A software implementation of the CCSDS 123Issue 2 compression standard" </td>
 </tr>
 <tr>
 <td markdown="span"> Joar Gjersund  </td>
-<td markdown="span">A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat </td>
+<td markdown="span"> "A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat" </td>
 </tr>
 <tr>
 <td markdown="span"> Mohamed Hassan Ismail </td>
-<td markdown="span"> HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm <br> Result: [MDPI Algorithms article](https://www.mdpi.com/1999-4893/13/12/330/htm) </td>
+<td markdown="span"> "HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm"
+        <br> Publications: [MDPI Algorithms article](https://www.mdpi.com/1999-4893/13/12/330/htm) </td>
 </tr>
 <tr>
 <td markdown="span"> Max Montzka </td>
@@ -121,13 +122,13 @@ Implementation </td>
 <tr>
 <td markdown="span"> Karine Avagian  </td>
 <td markdown="span">["An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) 
-<br> Articles: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}) </td>
+<br> Publications: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}) </td>
 </tr>
 <tr>
 <td markdown="span">Djordjije Boskovic  </td>
 <td markdown="span">["Hardware implementation of a target detection algorithm for hyperspectral images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
-<br> Articles: [MECO conference article]({% link _pdfs/meco.pdf%}), [MICPRO article]({% link _pdfs/MICPRO_2020_TD.pdf %})  
-<br> [NIFRO award 2020](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/)       </td>
+<br> Publications: [MECO conference article]({% link _pdfs/meco.pdf%}), [MICPRO article]({% link _pdfs/MICPRO_2020_TD.pdf %})  
+<br> Award: [NIFRO award 2020](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/)      </td>
 </tr>
 <tr>
 <td markdown="span"> Andreas Varntresk </td>
@@ -145,7 +146,7 @@ Implementation </td>
 <tr>
 <td markdown="span"> Johan Fjeldtvedt </td>
 <td markdown="span">["Efficient Streaming and Compression of Hyperspectral Images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
-<br> Articles: [CubeDMA]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %}), [CCSDS-123 sequential]({% link _pdfs/CCSDS123_2018_seq.pdf%}), [CCSDS-123 parallel](https://www.mdpi.com/2072-4292/11/6/673)
+<br> Publications: [CubeDMA]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %}), [CCSDS-123 sequential]({% link _pdfs/CCSDS123_2018_seq.pdf%}), [CCSDS-123 parallel](https://www.mdpi.com/2072-4292/11/6/673)
 <br> Awards: [FPGA forum award 2019](http://www.fpga-forum.no/awards/), 2019 Award for best master's thesis in microelectronics at NTNU    
       </td>
 </tr>
