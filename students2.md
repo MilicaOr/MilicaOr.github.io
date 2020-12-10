@@ -125,7 +125,7 @@ Implementation </td>
 <tr>
 <td markdown="span">Djordjije Boskovic  </td>
 <td markdown="span">[Hardware implementation of a target detection algorithm for hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
-<br> Result: [NIFRO award 2020](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/), [MECO conference article]({% link _pdfs/meco.pdf%})        </td>
+<br> Result: [NIFRO award 2020](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/), [MECO conference article]({% link _pdfs/meco.pdf%}), [MICPRO article]({% link _pdfs/MICPRO_2020_TD.pdf %})        </td>
 </tr>
 <tr>
 <td markdown="span"> Andreas Varntresk </td>
