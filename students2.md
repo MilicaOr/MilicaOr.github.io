@@ -142,7 +142,10 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Johan Fjeldtvedt </td>
-<td markdown="span">[Efficient Streaming and Compression of Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
+<td markdown="span">[Efficient Streaming and Compression of Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
+<br> [CubeDMA]({% link _pdfs/MICPRO_2019_CubeDMA.pdf %}), [CCSDS-123 sequential]({% link _pdfs/CCSDS123_2018_seq.pdf%}), [CCSDS-123 parallel](https://www.mdpi.com/2072-4292/11/6/673)
+<br> [FPGA forum prize 2019](http://www.fpga-forum.no/awards/), 2019 Award for best master's thesis in microelectronics at NTNU    
+      </td>
 </tr>
 <tr>
 <td markdown="span">Lars Bolstad </td>
@@ -172,7 +175,9 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Lars Erik Songe Paulsen  </td>
-<td markdown="span">[Design and Analysis of HEVC compliant CABAC Architecture](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)</td>
+<td markdown="span">[Design and Analysis of HEVC compliant CABAC Architecture](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2566932)
+<br> 2018 Award for best master's thesis in microelectronics at NTNU            
+        </td>
 </tr>
 
         
