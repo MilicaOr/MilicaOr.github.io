@@ -11,7 +11,7 @@ permalink: /publications/
 ### 2020
 
 #### Journal publications
-- M. Ismail, M. Orlandić. [Segment-Based Clustering of Hyperspectral Images Using Tree-Based Data Partitioning Structures](%link https://www.mdpi.com/1999-4893/13/12/330/htm%), MDPI Algorithm, 2020
+- M. Ismail, M. Orlandić. [Segment-Based Clustering of Hyperspectral Images Using Tree-Based Data Partitioning Structures](link https://www.mdpi.com/1999-4893/13/12/330/htm), MDPI Algorithm, 2020
 - Đ. Bošković, M. Orlandić, and T. A. Johansen. [A reconfigurable multi-mode implementation of hyperspectral target detection algorithms]({% link _pdfs/MICPRO_2020_TD.pdf %}) Microprocessors and Microsystems 78 (2020): 103258.
 
 #### Conference publications
