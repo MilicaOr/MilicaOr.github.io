@@ -74,7 +74,8 @@ permalink: /students/
  </tr>
         <tr>
 <td markdown="span"> Jon Alvarez Justo </td>
-<td markdown="span"> "Compressive Sensing on Ground-Penetrating Radar"</td>
+<td markdown="span"> "Compressive Sensing on Ground-Penetrating Radar"
+               <br> Publications: [MECO conference 2020]{% link _pdfs/MECO_2020_CS.pdf %}</td>
 </tr>
         <tr>
 <td markdown="span"> Christoffer Boothby </td>
@@ -91,21 +92,21 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Max Montzka </td>
-<td markdown="span"> Fast Spectrograph Corrections on Programmable Logic </td>
+<td markdown="span"> "Fast Spectrograph Corrections on Programmable Logic" </td>
 </tr>
 
 <tr>
 <td markdown="span"> David Barahona Pereira </td>
-<td markdown="span"> Virtual Prototypes for Embedded Software Testing: A SystemC Based Proof of Concept
-Implementation </td>
+<td markdown="span"> "Virtual Prototypes for Embedded Software Testing: A SystemC Based Proof of Concept
+Implementation" </td>
 </tr>
 <tr>
 <td markdown="span"> Motaz Ibrahim Ahmad Thiab </td>
-<td markdown="span"> Virtual prototype of low-power digital architectures in SystemC </td>
+<td markdown="span"> "Virtual prototype of low-power digital architectures in SystemC" </td>
 </tr>
 <tr>
 <td markdown="span"> Kristina Thue </td>
-<td markdown="span"> Accelerating compact CNN models for image segmentation using Vivado HLS </td>
+<td markdown="span"> "Accelerating compact CNN models for image segmentation using Vivado HLS" </td>
 </tr>
         
 </table>
