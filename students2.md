@@ -86,9 +86,9 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Mohamed Hassan Ismail </td>
-<td markdown="span"> HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm</td>
+<td markdown="span"> HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm <br> Result: [MDPI Algorithms article] (https://www.mdpi.com/1999-4893/13/12/330/htm) </td>
 </tr>
-        <tr>
+<tr>
 <td markdown="span"> Max Montzka </td>
 <td markdown="span"> Fast Spectrograph Corrections on Programmable Logic </td>
 </tr>
@@ -120,11 +120,12 @@ Implementation </td>
 </colgroup>
 <tr>
 <td markdown="span"> Karine Avagian  </td>
-<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) </td>
+<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) <br> Result: [MECO conference article]() </td>
 </tr>
 <tr>
 <td markdown="span">Djordjije Boskovic  </td>
-<td markdown="span">[Hardware implementation of a target detection algorithm for hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684) </td>
+<td markdown="span">[Hardware implementation of a target detection algorithm for hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
+<br> Result: [MECO conference article]()        </td>
 </tr>
 <tr>
 <td markdown="span"> Andreas Varntresk </td>
