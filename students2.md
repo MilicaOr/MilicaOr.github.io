@@ -44,9 +44,14 @@ permalink: /students/
 <td markdown="span"> Aksel Gundersen </td>
 <td markdown="span"> Anomaly Detection in Hyperspectral Images </td>
 </tr>
+<tr>
+<td markdown="span"> Sondre Tagestad  </td>
+<td markdown="span"> Image classification using Convolutional Neural Networks </td>
+</tr>
         <tr>
 <td markdown="span"> Yunus Emre Koc </td>
-<td markdown="span"> [Neuron Eye] Edge detection in images </td>
+<td markdown="span"> Cloud segmentation using AI to reduce data transmission
+ </td>
 </tr>
         <tr>
 <td markdown="span"> Gil Cristian Morales </td>
@@ -56,7 +61,14 @@ permalink: /students/
 <td markdown="span"> Thanathon Bupphapromrat Holm </td>
 <td markdown="span">  Operations user interface </td>
 </tr>
-        
+ <tr>
+<td markdown="span"> Maria Jakobs </td>
+<td markdown="span">  A down-scaled sensor and control system for water electrolysis</td>
+</tr>      
+ <tr>
+<td markdown="span"> Morten Paulsen </td>
+<td markdown="span"> Implementation of Sliding window DFT (sDFT) and comparison with FFT </td>
+</tr>  
 </table>
 
 
