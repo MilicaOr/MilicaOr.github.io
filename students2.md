@@ -100,7 +100,9 @@ permalink: /students/
 <tr>
 <td markdown="span"> Mohamed Hassan Ismail </td>
 <td markdown="span"> "HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm"
-        <br> Publications: [MDPI Algorithms article](https://www.mdpi.com/1999-4893/13/12/330/htm) </td>
+        <br> Publications: [MDPI Algorithms article](https://www.mdpi.com/1999-4893/13/12/330/htm) 
+        <br> Award: [FPGA forum award 2021](http://www.fpga-forum.no/awards/)  
+      </td>
 </tr>
 <tr>
 <td markdown="span"> Max Montzka </td>
