@@ -6,8 +6,11 @@ permalink: /publications/
 
 [Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 
+### 2021
+#### Journal publications
+- K. Avagian, M. Orlandić. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
 
-
+#### Conference publications
 ### 2020
 
 #### Journal publications
