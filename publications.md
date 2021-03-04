@@ -11,6 +11,10 @@ permalink: /publications/
 - K. Avagian, M. Orlandić. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
 
 #### Conference publications
+- T. Bolstad, L. Lundheim, A. Strømberg, M. Orlandic, P. H. Zimmermann, [Sustainability in project-based learning: Project themes and self-perceived competencies](https://www.ntnu.no/ojs/index.php/njse/article/view/3925), Nordic Journal of STEM Education, Vol. 5 No. 1 (2021): Vol. 5, No. 1, MNT konferansen 2021
+- D. Barahona, M. Thiab, I. Díaz, J. Urdahl, M. Orlandic, "Improving Software Testing Speed by 100X with System C Virtualization in IoT Devices", DVCon U.S., Virtual, 2021
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats to Best Poster Winner! 1st place to David Barahona, Motaz Thiab &amp; Milica Orlandic, Norwegian Univ of Science &amp; Technology; &amp; Isael DAaz &amp; Joakim Urdahl, Nordic Semiconductor for poster: Improving Software Testing Speed by 100X with System C Virtualization in IoT Devices</p>&mdash; DVCon U.S. (@dvcon_us) <a href="https://twitter.com/dvcon_us/status/1367286797902909441?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- 
 ### 2020
 
 #### Journal publications
