@@ -7,7 +7,7 @@ permalink: /news/
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats to Best Poster Winner! 1st place to David Barahona, Motaz Thiab &amp; Milica Orlandic, Norwegian Univ of Science &amp; Technology; &amp; Isael DAaz &amp; Joakim Urdahl, Nordic Semiconductor for poster: Improving Software Testing Speed by 100X with System C Virtualization in IoT Devices</p>&mdash; DVCon U.S. (@dvcon_us) <a href="https://twitter.com/dvcon_us/status/1367286797902909441?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- February 2021, Mohamed Ismail got [FPGA Forum 2021 Award] (http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/)
+- February 2021, Mohamed Ismail got [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/)
 - February 2021 - Two students Kristina Thue and Mohamed Ismail are nominated for FPGA Forum 2021 Award. [More about the event]
 (FPGA-forum 2021 Master thesis award) 
 - February 2021, Karine Avagian and I have published our paper on " An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images" in MDPI Electronics 
