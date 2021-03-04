@@ -14,8 +14,8 @@ permalink: /news/
 <td markdown="span">March 2021, Two master students, Motaz Thiab and  David Barahona Pereira have presented their master thesis work in DVCon 2021</td>
 </tr>
 <tr>
-<td markdown="span"><img src="/_images/No_photo.png" alt="drawing" width="150"/> </td>
-<td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
+<td markdown="span"><img src="/_images/fpga_forum_2021_mohamed.png" alt="drawing" width="150"/> </td>
+<td markdown="span">February 2021, Mohamed Ismail got [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/)
 </td>
 </tr>
 </table>
