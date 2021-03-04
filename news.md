@@ -21,12 +21,12 @@ permalink: /news/
 </tr>
 </tr>
 <tr>
-<td ><img src="/_images/no_photo.png" alt="drawing" width="250"/> </td>
+<td ><img src="/_images/No_photo.png" alt="drawing" width="250"/> </td>
 <td >February 2021 - Two students Kristina Thue and Mohamed Ismail are nominated for [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/10/fpga-forum-2021-master-thesis-award/) 
 </td>
 </tr>
 <tr>
-<td ><img src="/_images/No_photo.PNG" alt="drawing" width="250"/> </td>
+<td ><img src="/_images/No_photo.png" alt="drawing" width="250"/> </td>
 <td >February 2021, Article " An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images" written by Karine Avagian and I has been published in MDPI Electronics 
 </td>
 </tr>
