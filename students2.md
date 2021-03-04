@@ -113,14 +113,14 @@ permalink: /students/
 <td markdown="span"> David Barahona Pereira </td>
 <td markdown="span"> "Virtual Prototypes for Embedded Software Testing: A SystemC Based Proof of Concept
 Implementation" 
-         <br> Publication: [DVCon Conference 2021]()
+         <br> Publication: [DVCon Conference 2021](https://2021.dvcon.org/)
         <br> Award: [Best Poster Award](https://twitter.com/dvcon_us/status/1367286797902909441?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1367286797902909441%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdvcon_us2Fstatus2F1367286797902909441widget%3DTweet)
         </td>
 </tr>
 <tr>
 <td markdown="span"> Motaz Ibrahim Ahmad Thiab </td>
 <td markdown="span"> "Virtual prototype of low-power digital architectures in SystemC"
-        <br> Publication: [DVCon Conference 2021]()
+        <br> Publication: [DVCon Conference 2021](https://2021.dvcon.org/)
         <br> Award: [Best Poster Award](https://twitter.com/dvcon_us/status/1367286797902909441?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1367286797902909441%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdvcon_us2Fstatus2F1367286797902909441widget%3DTweet)
         </td>
 </tr>
