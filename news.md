@@ -9,14 +9,14 @@ permalink: /news/
 <col width="70%" />
 </colgroup>
 <tr>
-<td markdown="span"> 
+<td> 
  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats to Best Poster Winner! 1st place to David Barahona, Motaz Thiab &amp; Milica Orlandic, Norwegian Univ of Science &amp; Technology; &amp; Isael DAaz &amp; Joakim Urdahl, Nordic Semiconductor for poster: Improving Software Testing Speed by 100X with System C Virtualization in IoT Devices</p>&mdash; DVCon U.S. (@dvcon_us) <a href="https://twitter.com/dvcon_us/status/1367286797902909441?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  </td>
-<td markdown="span">March 2021, Two master students, Motaz Thiab and  David Barahona Pereira have presented their master thesis work in DVCon 2021</td>
+<td >March 2021, Two master students, Motaz Thiab and  David Barahona Pereira have presented their master thesis work in DVCon 2021</td>
 </tr>
 <tr>
-<td markdown="span"><img src="/_images/fpga_forum_2021_mohamed.PNG" alt="drawing" width="150"/> </td>
-<td markdown="span">February 2021, Mohamed Ismail got [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/)
+<td ><img src="/_images/fpga_forum_2021_mohamed.PNG" alt="drawing" width="150"/> </td>
+<td >February 2021, Mohamed Ismail got [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/)
 </td>
 </tr>
 </table>
