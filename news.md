@@ -16,12 +16,23 @@ permalink: /news/
 </tr>
 <tr>
 <td ><img src="/_images/fpga_forum_2021_mohamed.PNG" alt="drawing" width="250"/> </td>
-<td >February 2021, Mohamed Ismail got [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/ for the best master thesis.)
+<td >February 2021, Mohamed Ismail got [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/) for the best master thesis.)
+</td>
+</tr>
+</tr>
+<tr>
+<td ><img src="/_images/No_photo.PNG" alt="drawing" width="250"/> </td>
+<td >February 2021 - Two students Kristina Thue and Mohamed Ismail are nominated for FPGA Forum 2021 Award. [More about the event](http://www.fpga-forum.no/2021/02/10/fpga-forum-2021-master-thesis-award/) 
+</td>
+</tr>
+<tr>
+<td ><img src="/_images/No_photo.PNG" alt="drawing" width="250"/> </td>
+<td >February 2021, Article " An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images" written by Karine Avagian and I has been published in MDPI Electronics 
 </td>
 </tr>
 </table>
 
-- February 2021 - Two students Kristina Thue and Mohamed Ismail are nominated for FPGA Forum 2021 Award. [More about the event](http://www.fpga-forum.no/2021/02/10/fpga-forum-2021-master-thesis-award/) 
+
 - February 2021, Karine Avagian and I have published our paper on " An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images" in MDPI Electronics 
 - December 2020, Our paper on HSI clustering has been published in MDPI Algorithms
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">[Article] Segment-Based Clustering of Hyperspectral Images Using Tree-Based Data Partitioning Structures<br><br>Fully <a href="https://twitter.com/hashtag/openaccess?src=hash&amp;ref_src=twsrc%5Etfw">#openaccess</a> @ <a href="https://t.co/IoKXYR88zb">https://t.co/IoKXYR88zb</a><a href="https://twitter.com/hashtag/hyperspectralimage?src=hash&amp;ref_src=twsrc%5Etfw">#hyperspectralimage</a> (HSI)<a href="https://twitter.com/hashtag/HSIclustering?src=hash&amp;ref_src=twsrc%5Etfw">#HSIclustering</a><a href="https://twitter.com/hashtag/HSIsegmentation?src=hash&amp;ref_src=twsrc%5Etfw">#HSIsegmentation</a><a href="https://twitter.com/hashtag/PrincipleComponentAnalysis?src=hash&amp;ref_src=twsrc%5Etfw">#PrincipleComponentAnalysis</a> (PCA)<a href="https://twitter.com/hashtag/algorithms?src=hash&amp;ref_src=twsrc%5Etfw">#algorithms</a> <a href="https://t.co/NgcHkUtUx8">pic.twitter.com/NgcHkUtUx8</a></p>&mdash; Algorithms MDPI (@Algorithms_MDPI) <a href="https://twitter.com/Algorithms_MDPI/status/1345222464117166080?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
