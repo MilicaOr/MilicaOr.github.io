@@ -21,8 +21,8 @@ permalink: /news/
 </tr>
 </tr>
 <tr>
-<td ><img src="/_images/No_photo.PNG" alt="drawing" width="250"/> </td>
-<td >February 2021 - Two students Kristina Thue and Mohamed Ismail are nominated for FPGA Forum 2021 Award. [More about the event](http://www.fpga-forum.no/2021/02/10/fpga-forum-2021-master-thesis-award/) 
+<td ><img src="/_images/no_photo.png" alt="drawing" width="250"/> </td>
+<td >February 2021 - Two students Kristina Thue and Mohamed Ismail are nominated for [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/10/fpga-forum-2021-master-thesis-award/) 
 </td>
 </tr>
 <tr>
