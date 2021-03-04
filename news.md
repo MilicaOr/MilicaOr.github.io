@@ -26,7 +26,7 @@ permalink: /news/
 </td>
 </tr>
 <tr>
-<td ><img src="/_images/No_photo.png" alt="drawing" width="250"/> </td>
+<td ><img src="/_images/lr_deconvolution.jpeg" alt="drawing" width="250"/> </td>
 <td >February 2021, Article " An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images" written by Karine Avagian and I has been published in MDPI Electronics 
 </td>
 </tr>
