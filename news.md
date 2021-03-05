@@ -37,6 +37,13 @@ permalink: /news/
 <td >February 2021 - Article " Segment-Based Clustering of Hyperspectral Images Using Tree-Based Data Partitioning Structures" written by Mohamed Ismail and I has been published in MDPI Electronics 
 </td>
 </tr>
+<tr>
+<td >
+ <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6750988057614393344" height="882" width="504" frameborder="0" allowfullscreen="" title="Innebygd innlegg"></iframe>
+ </td>
+<td >February 2021 - Article " Segment-Based Clustering of Hyperspectral Images Using Tree-Based Data Partitioning Structures" written by Mohamed Ismail and I has been published in MDPI Electronics 
+</td>
+</tr>
 </table>
 
 
