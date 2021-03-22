@@ -87,3 +87,36 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 - M. Orlandić, I. Orović, S. Stanković, “An image watermarking technique with optimal detection in the wavelet transform domain”, ETRAN, Vrnjacka Banja, Serbia June 2009 
 
 - S.M. Perovich, M. Orlandic, R. Toskovic, “On the exact analytical closed form solution of the Saho ionization inverse equation”, VI International Seminar on mathematical models and modelling in Laser - Plasma Processes 2009, Budva, Montenegro, May 2009
+
+#### Statistics
+<table>
+<colgroup>
+<col width="30%" />
+<col width="10%" />
+<col width="10%" />
+ <col width="10%" />
+ <col width="10%" />
+
+</colgroup>
+<tr>
+<td markdown="span"> Journal publications  </td>
+<td markdown="span">2010-2017</td>
+ <td markdown="span">2018</td>
+ <td markdown="span">2019</td>
+ <td markdown="span">2020</td>
+</tr>
+<tr>
+<td markdown="span"> Journal publications  </td>
+<td markdown="span">2010-2017</td>
+ <td markdown="span">2018</td>
+ <td markdown="span">2019</td>
+ <td markdown="span">2020</td>
+</tr>
+<tr>
+<td markdown="span"> Conferance publications  </td>
+<td markdown="span">2010-2017</td>
+ <td markdown="span">2018</td>
+ <td markdown="span">2019</td>
+ <td markdown="span">2020</td>
+</tr>
+</table>
