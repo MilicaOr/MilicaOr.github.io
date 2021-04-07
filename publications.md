@@ -9,11 +9,13 @@ permalink: /publications/
 ### 2021
 #### Journal publications
 - K. Avagian, M. Orlandić. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
+- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, M. Orlandić, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission, IEEE Trans. Geoscience and Remote Sensing, 2021
 
 #### Conference publications
 - T. Bolstad, L. Lundheim, A. Strømberg, M. Orlandic, P. H. Zimmermann, [Sustainability in project-based learning: Project themes and self-perceived competencies](https://www.ntnu.no/ojs/index.php/njse/article/view/3925), Nordic Journal of STEM Education, Vol. 5 No. 1 (2021): Vol. 5, No. 1, MNT konferansen 2021
 - D. Barahona, M. Thiab, I. Díaz, J. Urdahl, M. Orlandic, "Improving Software Testing Speed by 100X with System C Virtualization in IoT Devices", DVCon U.S., Virtual, 2021
-
+- J. Garrett, S. Bakken, E. Prentice, D. Langer, F. Leira, E. Honoré-Livermore, R. Birkeland, M. Grøtte, T. A. Johansen, M. Orlandić, Hyperspectral Image Processing Pipelines on Multiple Platforms for Coordinated Oceanographic Observation, 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
+- J. Garrett, M. Bashir, T. A. Johansen, M. Orlandić, B. Raeissi, Detecting Pinholes in Coatings with Hyperspectral Imaging, 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
 ### 2020
 
 #### Journal publications
