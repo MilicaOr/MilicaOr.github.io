@@ -19,7 +19,6 @@ permalink: /news/
 <td >February 2021 - Mohamed Ismail got [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/18/fpga-forum-2021-master-thesis-award-winner/) for the best master thesis.)
 </td>
 </tr>
-</tr>
 <tr>
 <td ><img src="/_images/No_photo.png" alt="drawing" height="150" width="250"/> </td>
 <td >February 2021 - Two students Kristina Thue and Mohamed Ismail are nominated for [FPGA Forum 2021 Award](http://www.fpga-forum.no/2021/02/10/fpga-forum-2021-master-thesis-award/) 
