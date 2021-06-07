@@ -9,7 +9,7 @@ permalink: /publications/
 ### 2021
 #### Journal publications
 - K. Avagian, M. Orlandić. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
-- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, M. Orlandić, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission[[link](https://ieeexplore.ieee.org/document/9447150),[full text]({% link _pdfs/MICPRO_2020_TD.pdf %})], IEEE Trans. Geoscience and Remote Sensing, 2021
+- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, M. Orlandić, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission[[link](https://ieeexplore.ieee.org/document/9447150),[full text]({% link _pdfs/HYPSO_Concept_rev3.pdf %})], IEEE Trans. Geoscience and Remote Sensing, 2021
 
 #### Conference publications
 - T. Bolstad, L. Lundheim, A. Strømberg, M. Orlandic, P. H. Zimmermann, [Sustainability in project-based learning: Project themes and self-perceived competencies](https://www.ntnu.no/ojs/index.php/njse/article/view/3925), Nordic Journal of STEM Education, Vol. 5 No. 1 (2021): Vol. 5, No. 1, MNT konferansen 2021
