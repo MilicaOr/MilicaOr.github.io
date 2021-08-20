@@ -115,8 +115,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 <td markdown="span">9</td>
  <td markdown="span">2</td>
  <td markdown="span"> 2 </td>
- <td markdown="span"> 2 </td>
-  <td markdown="span"> 15 </td>
+ <td markdown="span"> 3 </td>
+  <td markdown="span"> 16 </td>
 </tr>
 <tr>
 <td markdown="span"> Conferance publications  </td>
