@@ -5,7 +5,10 @@ permalink: /publications/
 ---
 
 [Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
-
+### 2021
+#### Conference publications
+- S. Bakken, R. Birkeland, J. L. Garrett, P. A. R. Marton, M. Orlandic, E. Honore-Livermore, D. D. Langer, C. Haskins, T. A. Johansen, Testing  of  Software-Intensive  Hyperspectral  Imaging  Payload for the  HYPSO-1  CubeSat, IEEE/SICE International Symposium on System Integration (SII), 2022
+- S. Bakken, E. Honore-Livermore, R. Birkeland, M Orlandic, E. F. Prentice, J. L. Garrett, D. D. Langer, C. Haskins, T. A. Johansen, Software Development and Integration of a Hyperspectral Imaging Payload for HYPSO-1, IEEE/SICE International Symposium on System Integration (SII), 2022
 ### 2021
 #### Journal publications
 - K. Avagian, M. Orlandić. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
