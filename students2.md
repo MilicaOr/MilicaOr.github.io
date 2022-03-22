@@ -26,6 +26,11 @@ permalink: /students/
 
 ## MSc. students
 ### 2021-2022
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
 <tr>
 <td markdown="span"> Simen Netteland </td>
 <td markdown="span">  </td>
@@ -54,6 +59,8 @@ permalink: /students/
 <td markdown="span"> Matias Haugum</td>
 <td markdown="span">  </td>
 </tr>
+</table>
+
 ### 2020-2021
 <table>
 <colgroup>
