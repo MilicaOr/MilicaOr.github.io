@@ -25,17 +25,41 @@ permalink: /students/
 </table>
 
 ## MSc. students
-
+### 2021-2022
+<tr>
+<td markdown="span"> Simen Netteland </td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Stian Grønlien Hubred </td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Kristine Døsvik </td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Marcus Nicolaisen </td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Torbjørn Bratvold </td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Kåre-Benjamin Rørvik</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Matias Haugum</td>
+<td markdown="span">  </td>
+</tr>
 ### 2020-2021
 <table>
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
-<tr>
-<td markdown="span"> Michal Rowicki  </td>
-<td markdown="span">Hyperspectral image fusion </td>
-</tr>
 <tr>
 <td markdown="span"> Armin Bahadoran </td>
 <td markdown="span"> Deconvolution for hyperspectral images </td>
@@ -57,10 +81,6 @@ permalink: /students/
 <td markdown="span"> Gil Cristian Morales </td>
 <td markdown="span"> An FPGA Implementation of CCSDS 123 Issue 2 Standard </td>
 </tr>
-        <tr>
-<td markdown="span"> Thanathon Bupphapromrat Holm </td>
-<td markdown="span">  Operations user interface </td>
-</tr>
  <tr>
 <td markdown="span"> Maria Jakobs </td>
 <td markdown="span">  A down-scaled sensor and control system for water electrolysis</td>
@@ -68,6 +88,10 @@ permalink: /students/
  <tr>
 <td markdown="span"> Morten Paulsen </td>
 <td markdown="span"> Implementation of Sliding window DFT (sDFT) and comparison with FFT </td>
+</tr>  
+<tr>
+<td markdown="span"> Elvira Aalerud </td>
+<td markdown="span"> Hyperspectral Imaging Toolbox </td>
 </tr>  
 </table>
 
