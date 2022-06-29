@@ -12,6 +12,7 @@ permalink: /news/
 <td> 
  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6947804597344219136" height="970" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
  </td>
+ <td>  Application deadline: 20.08.22 </td>
  </tr>
 <tr>
 <td> 
