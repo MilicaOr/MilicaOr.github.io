@@ -27,7 +27,6 @@ permalink: /students/
 <td markdown="span">[Đorđije Bošković](https://www.ntnu.edu/employees/dordije.boskovic)</td>
 </tr>
 </table>
-https://www.ntnu.edu/employees/dordije.boskovic
 ## MSc. students
 ### 2021-2022
 <table>
