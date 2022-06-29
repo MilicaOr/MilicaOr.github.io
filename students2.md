@@ -22,8 +22,12 @@ permalink: /students/
 <td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 </td>
 </tr>
+<tr>
+<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
+<td markdown="span">[Đorđije Bošković](https://www.ntnu.edu/employees/dordije.boskovic)</td>
+</tr>
 </table>
-
+https://www.ntnu.edu/employees/dordije.boskovic
 ## MSc. students
 ### 2021-2022
 <table>
