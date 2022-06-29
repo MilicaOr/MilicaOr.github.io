@@ -23,7 +23,7 @@ permalink: /students/
 </td>
 </tr>
 <tr>
-<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
+<td markdown="span"> <img src="/_images/djordjije.jpg" alt="drawing" width="150"/>  </td>
 <td markdown="span">[Đorđije Bošković](https://www.ntnu.edu/employees/dordije.boskovic)</td>
 </tr>
 </table>
