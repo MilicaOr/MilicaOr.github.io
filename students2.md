@@ -18,7 +18,7 @@ permalink: /students/
 <td markdown="span">[Jon Justo Alvarez](https://www.ntnu.no/ansatte/jonalv)</td>
 </tr>
 <tr>
-<td markdown="span"><img src="/_images/No_photo.png" alt="drawing" width="150"/> </td>
+<td markdown="span"><img src="/_images/erling.jpg" alt="drawing" width="150"/> </td>
 <td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 </td>
 </tr>
