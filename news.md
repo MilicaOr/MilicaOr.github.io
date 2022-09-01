@@ -11,12 +11,10 @@ permalink: /news/
   <tr>
 <td> 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/AxOMorj1SU4?clip=UgkxN4jthKjWq8TxwQ1ccOrPlIZsBsjjwX4x&amp;clipt=EMDHYRignGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <tr>
    </td>
- <td>  HYPSO-1 Launch 13. January 2022
+ <td>  HYPSO-1 Launch 13. January 2022 </td> 
  </tr>
 <tr>
-<td> 
 <td> 
  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6947804597344219136" height="800" width="400" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
  </td>
