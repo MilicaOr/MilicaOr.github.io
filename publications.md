@@ -7,7 +7,7 @@ permalink: /publications/
 [Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 ### 2023
 #### Journal publications
-S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, M. Orlandic, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
+- S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, M. Orlandic, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
 
 #### Conference publications
 - E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, M. Orlandic, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Tolouse, France,  2023
