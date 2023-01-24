@@ -5,9 +5,17 @@ permalink: /publications/
 ---
 
 [Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
+### 2023
+#### Journal publications
+S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, M. Orlandic, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
+
+#### Conference publications
+- E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, M. Orlandic, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Tolouse, France,  2023
+
 ### 2022
 #### Journal publications
 - E. R. Jellum, M. Orlandic, E. F. Brekke, T. A. Johansen, T. H. Bryne, Solving Sparse Assignment Problems on FPGAs, ACM Transactions on Architecture and Code Optimization (ACM TACO), 2022
+
 
 #### Conference publications
 - S. Bakken, R. Birkeland, J. L. Garrett, P. A. R. Marton, M. Orlandic, E. Honore-Livermore, D. D. Langer, C. Haskins, T. A. Johansen, Testing  of  Software-Intensive  Hyperspectral  Imaging  Payload for the  HYPSO-1  CubeSat, IEEE/SICE International Symposium on System Integration (SII), 2022
@@ -121,6 +129,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span">2019</td>
  <td markdown="span">2020</td>
  <td markdown="span">2021</td>
+ <td markdown="span">2022</td>
+ <td markdown="span">2023</td>
   <td markdown="span">Total</td>
 </tr>
 <tr>
@@ -129,7 +139,9 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span">2</td>
  <td markdown="span"> 2 </td>
  <td markdown="span"> 3 </td>
-  <td markdown="span"> 16 </td>
+  <td markdown="span"> 1 </td>
+  <td markdown="span"> 1 </td>
+  <td markdown="span"> 18 </td>
 </tr>
 <tr>
 <td markdown="span"> Conferance publications  </td>
@@ -137,6 +149,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span">3</td>
  <td markdown="span"> 1 </td>
  <td markdown="span"> 4 </td>
-  <td markdown="span"> 15 </td>
+ <td markdown="span"> 7 </td>
+ <td markdown="span"> 1 </td>
+  <td markdown="span"> 23 </td>
 </tr>
 </table>
