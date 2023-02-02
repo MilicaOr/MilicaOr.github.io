@@ -39,15 +39,7 @@ permalink: /students/
 <td markdown="span">  </td>
 </tr>
 <tr>
-<td markdown="span"> Stian Grønlien Hubred </td>
-<td markdown="span">  </td>
-</tr>
-<tr>
 <td markdown="span"> Kristine Døsvik </td>
-<td markdown="span">  </td>
-</tr>
-<tr>
-<td markdown="span"> Marcus Nicolaisen </td>
 <td markdown="span">  </td>
 </tr>
 <tr>
@@ -60,6 +52,10 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Matias Haugum</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Simen Berg</td>
 <td markdown="span">  </td>
 </tr>
 </table>
