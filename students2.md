@@ -88,26 +88,32 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span"> Simen Netteland </td>
+<td markdown="span">["Exploration and Implementation of Large CNN Models for Image Segmentation in Hyperspectral CubeSat Missions"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3020478) 
 <td markdown="span">  </td>
 </tr>
 <tr>
 <td markdown="span"> Kristine Døsvik </td>
-<td markdown="span">  </td>
-</tr>
-<tr>
-<td markdown="span"> Torbjørn Bratvold </td>
+<td markdown="span">["Design space exploration for hyperspectral image processing pipeline in HYPSO mission"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3028708) 
 <td markdown="span">  </td>
 </tr>
 <tr>
 <td markdown="span"> Kåre-Benjamin Rørvik</td>
+<td markdown="span">["Next generation compression algorithm"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3031284) 
 <td markdown="span">  </td>
 </tr>
 <tr>
 <td markdown="span"> Matias Haugum</td>
+<td markdown="span">["Designing a Flow-Through Particle Imaging System for Autonomous Surface Vehicles"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3029428) 
 <td markdown="span">  </td>
 </tr>
 <tr>
 <td markdown="span"> Simen Berg</td>
+<td markdown="span">["Maximizing Payload Utilization of the HYPSO-1 Satellite"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3033744) 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Torbjørn Bratvold </td>
+ <td markdown="span">[" Near Real-time Hyperspectral Image Classification for In-orbit Decissionmaking HYPSO-1"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3031514) 
 <td markdown="span">  </td>
 </tr>
 </table>
