@@ -24,6 +24,62 @@ permalink: /students/
 </tr>
 </table>
 ## MSc. students
+### 2022-2023
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<tr>
+<td markdown="span"> Katinka Müller </td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Helene Markeng</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Braghe Gåso Samsonsen </td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Jonas Gjendem Røysland</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Samuel Boyle</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Cameeon Luis Penne</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Magnus Ramsfjell</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Besjan Tomja</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Olivier Raphael Lesage Fongue</td>
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Adam Gawlik, ARM</td>
+<td markdown="span">  </td>
+</tr>      
+<tr>
+<td markdown="span"> Adam Gawlik, ARM</td>
+<td markdown="span">  </td>
+</tr> 
+<tr>
+<td markdown="span"> Andrew Glover Martey, Nordic</td>
+<td markdown="span">  </td>
+</tr> 
+</table>
+
 ### 2021-2022
 <table>
 <colgroup>
