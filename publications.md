@@ -7,24 +7,25 @@ permalink: /publications/
 [Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 ### 2023
 #### Journal publications
-- S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, M. Orlandic, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
+- S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, M. **Orlandic**, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
+- Torstein Bolstad, Lars Lundheim, Milica **Orlandic**, Anders Strømberg, Pauline Hardeberg Zimmermann, "Do Students Reflect on Sustainability? Student Development of Competencies for Sustainability in Project-Based Learning", Nordic Journal of STEM Education, 2023
 
 #### Conference publications
-- E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, M. Orlandic, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Tolouse, France,  2023
+- E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandic**, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Tolouse, France,  2023
 
 ### 2022
 #### Journal publications
-- E. R. Jellum, M. Orlandic, E. F. Brekke, T. A. Johansen, T. H. Bryne, Solving Sparse Assignment Problems on FPGAs, ACM Transactions on Architecture and Code Optimization (ACM TACO), 2022
+- E. R. Jellum, **M. Orlandic**, E. F. Brekke, T. A. Johansen, T. H. Bryne, Solving Sparse Assignment Problems on FPGAs, ACM Transactions on Architecture and Code Optimization (ACM TACO), 2022
 
 
 #### Conference publications
-- S. Bakken, R. Birkeland, J. L. Garrett, P. A. R. Marton, M. Orlandic, E. Honore-Livermore, D. D. Langer, C. Haskins, T. A. Johansen, Testing  of  Software-Intensive  Hyperspectral  Imaging  Payload for the  HYPSO-1  CubeSat, IEEE/SICE International Symposium on System Integration (SII), 2022
-- S. Bakken, E. Honore-Livermore, R. Birkeland, M Orlandic, E. F. Prentice, J. L. Garrett, D. D. Langer, C. Haskins, T. A. Johansen, Software Development and Integration of a Hyperspectral Imaging Payload for HYPSO-1, IEEE/SICE International Symposium on System Integration (SII), 2022
-- E. R. Jellum, T. H. Bryne, T. A. Johansen, M. Orlandic, The Syncline Model - Analyzing the Impact of Time Synchronization in Sensor Fusion, 6th IEEE Conference on Control Technology and Applications, 2022
-- J. A. Justo, D. Lupu, M. Orlandic, I. Necoara, T. A. Johansen, A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction, IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece
-- S. Bakken, A. Danielsen, K. Døsvik, J. Garrett, M. Orlandic, D. Langer, T, A. Johansen, A modular hyperspectral image processing pipeline for cubesats, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
-- R. Birkeland, S. Berg, M. Orlandic and J. Garrett, On-board characterization of Hyperspectral image Exposure and Cloud coverage by compression ratio, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
-- J. A. Justo and M. Orlandic, Study of the gOMP Algorithm for Recovery of Compressed Hyperspectral Images, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
+- S. Bakken, R. Birkeland, J. L. Garrett, P. A. R. Marton, **M. Orlandić**, E. Honore-Livermore, D. D. Langer, C. Haskins, T. A. Johansen, Testing  of  Software-Intensive  Hyperspectral  Imaging  Payload for the  HYPSO-1  CubeSat, IEEE/SICE International Symposium on System Integration (SII), 2022
+- S. Bakken, E. Honore-Livermore, R. Birkeland, **M Orlandić**, E. F. Prentice, J. L. Garrett, D. D. Langer, C. Haskins, T. A. Johansen, Software Development and Integration of a Hyperspectral Imaging Payload for HYPSO-1, IEEE/SICE International Symposium on System Integration (SII), 2022
+- E. R. Jellum, T. H. Bryne, T. A. Johansen, **M. Orlandić**, The Syncline Model - Analyzing the Impact of Time Synchronization in Sensor Fusion, 6th IEEE Conference on Control Technology and Applications, 2022
+- J. A. Justo, D. Lupu, ** M. Orlandić**, I. Necoara, T. A. Johansen, A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction, IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece
+- S. Bakken, A. Danielsen, K. Døsvik, J. Garrett, **M. Orlandić**, D. Langer, T, A. Johansen, A modular hyperspectral image processing pipeline for cubesats, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
+- R. Birkeland, S. Berg, **M. Orlandic** and J. Garrett, On-board characterization of Hyperspectral image Exposure and Cloud coverage by compression ratio, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
+- J. A. Justo and **M. Orlandić**, Study of the gOMP Algorithm for Recovery of Compressed Hyperspectral Images, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
 
 
 ### 2021
