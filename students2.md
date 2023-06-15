@@ -165,14 +165,14 @@ permalink: /students/
 <col width="30%" />
 <col width="70%" />
 </colgroup>
- <tr>
- </tr>
-        <tr>
+<tr>
+</tr>
+<tr>
 <td markdown="span"> Jon Alvarez Justo </td>
 <td markdown="span"> "Compressive Sensing on Ground-Penetrating Radar"
                <br> Publications: [MECO conference 2020]({% link _pdfs/MECO_2020_CS.pdf %})</td>
 </tr>
-        <tr>
+<tr>
 <td markdown="span"> Christoffer Boothby </td>
 <td markdown="span"> "A software implementation of the CCSDS 123Issue 2 compression standard" </td>
 </tr>
