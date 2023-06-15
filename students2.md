@@ -226,7 +226,8 @@ Implementation"
 <tr>
 <td markdown="span"> Karine Avagian  </td>
 <td markdown="span">["An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) 
-<br> Publications: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}) </td>
+<br> Publications: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}), [MDPI Elecronics](https://www.mdpi.com/2079-9292/10/4/504)
+ </td>
 </tr>
 <tr>
 <td markdown="span">Djordjije Boskovic  </td>
