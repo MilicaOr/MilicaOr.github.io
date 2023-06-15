@@ -181,10 +181,11 @@ permalink: /students/
 <td markdown="span"> "A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat" </td>
 </tr>
 <tr>
-<td markdown="span"> Mohamed Hassan Ismail</td>
+<td markdown="span"> Mohamed Hassan Ismail </td>
 <td markdown="span"> ["HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2834525)
-<br> Publication: [MDPI Algorithms](https://www.mdpi.com/1999-4893/13/12/330)
-<br> Award: [FPGA forum award 2019](http://www.fpga-forum.no/awards/)  </td>
+  <br> Publication: [MDPI Algorithms](https://www.mdpi.com/1999-4893/13/12/330)
+  <br> Award: [FPGA forum award 2019](http://www.fpga-forum.no/awards/)  
+</td>
 </tr>
 <tr>
 <td markdown="span"> Max Montzka </td>
