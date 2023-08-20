@@ -7,12 +7,14 @@ permalink: /publications/
 [Google scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 ### 2023
 #### Journal publications
-- S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, M. **Orlandic**, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
-- Torstein Bolstad, Lars Lundheim, Milica **Orlandic**, Anders Strømberg, Pauline Hardeberg Zimmermann, "Do Students Reflect on Sustainability? Student Development of Competencies for Sustainability in Project-Based Learning", Nordic Journal of STEM Education, 2023
+- D. D. Langer, **M. Orlandic**, S. Bakken, R. Birkeland, J. L. Garrett, T. A. Johansen, A. J. Sørensen, Robust and Reconfigurable On-Board Processing for a Hyperspectral Imaging Small Satellite, Remote Sensing, Vol. 15, Article 3756, 2023
+- S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, **M. Orlandic**, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
+- T. Bolstad, L. Lundheim, **M. Orlandic**, A. Strømberg, P. Hardeberg Zimmermann, "Do Students Reflect on Sustainability? Student Development of Competencies for Sustainability in Project-Based Learning", Nordic Journal of STEM Education, 2023
 
 #### Conference publications
 - E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandic**, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Tolouse, France,  2023
-- K. Müller, V. C. Gogineni, **M. Orlandic**, S. Werner, "Autoencoder-based Hyperspectral Anomaly Detection using Kernel Principal Component Pre-Processing", Eurosipco 2023,  accepted 
+- K. Müller, V. C. Gogineni, **M. Orlandic**, S. Werner, "Autoencoder-based Hyperspectral Anomaly Detection using Kernel Principal Component Pre-Processing", Eurosipco 2023,  accepted
+- E. Jellum, Y. Umuruglu, **M. Orlandic**, M. Schoeberl, "FPGA-tidbits: Rapid Prototyping of FPGA Accelerators in Chisel", DSD 2023, accepted
 
 ### 2022
 #### Journal publications
@@ -23,7 +25,7 @@ permalink: /publications/
 - S. Bakken, R. Birkeland, J. L. Garrett, P. A. R. Marton, **M. Orlandić**, E. Honore-Livermore, D. D. Langer, C. Haskins, T. A. Johansen, Testing  of  Software-Intensive  Hyperspectral  Imaging  Payload for the  HYPSO-1  CubeSat, IEEE/SICE International Symposium on System Integration (SII), 2022
 - S. Bakken, E. Honore-Livermore, R. Birkeland, **M Orlandić**, E. F. Prentice, J. L. Garrett, D. D. Langer, C. Haskins, T. A. Johansen, Software Development and Integration of a Hyperspectral Imaging Payload for HYPSO-1, IEEE/SICE International Symposium on System Integration (SII), 2022
 - E. R. Jellum, T. H. Bryne, T. A. Johansen, **M. Orlandić**, The Syncline Model - Analyzing the Impact of Time Synchronization in Sensor Fusion, 6th IEEE Conference on Control Technology and Applications, 2022
-- J. A. Justo, D. Lupu, ** M. Orlandić**, I. Necoara, T. A. Johansen, A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction, IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece
+- J. A. Justo, D. Lupu, **M. Orlandić**, I. Necoara, T. A. Johansen, A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction, IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece
 - S. Bakken, A. Danielsen, K. Døsvik, J. Garrett, **M. Orlandić**, D. Langer, T, A. Johansen, A modular hyperspectral image processing pipeline for cubesats, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
 - R. Birkeland, S. Berg, **M. Orlandic** and J. Garrett, On-board characterization of Hyperspectral image Exposure and Cloud coverage by compression ratio, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
 - J. A. Justo and **M. Orlandić**, Study of the gOMP Algorithm for Recovery of Compressed Hyperspectral Images, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
@@ -31,24 +33,24 @@ permalink: /publications/
 
 ### 2021
 #### Journal publications
-- K. Avagian, M. Orlandić. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
-- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, M. Orlandić, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission [[link](https://ieeexplore.ieee.org/document/9447150), [full text]({% link _pdfs/HYPSO_Concept_rev3.pdf %})], IEEE Trans. Geoscience and Remote Sensing, 2021
-- B. Raeissi, M. Bashir, J. L. Garrett, M. Orlandic, T. A. Johansen, T. Skramstad, Detection of different chemical binders in coatings using commercial hyperspectral imaging, J. Coatings Technology and Research, 2021
+- K. Avagian, **M. Orlandić**. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
+- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, **M. Orlandić**, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission [[link](https://ieeexplore.ieee.org/document/9447150), [full text]({% link _pdfs/HYPSO_Concept_rev3.pdf %})], IEEE Trans. Geoscience and Remote Sensing, 2021
+- B. Raeissi, M. Bashir, J. L. Garrett, **M. Orlandic**, T. A. Johansen, T. Skramstad, Detection of different chemical binders in coatings using commercial hyperspectral imaging, J. Coatings Technology and Research, 2021
 
 #### Conference publications
-- T. Bolstad, L. Lundheim, A. Strømberg, M. Orlandic, P. H. Zimmermann, [Sustainability in project-based learning: Project themes and self-perceived competencies](https://www.ntnu.no/ojs/index.php/njse/article/view/3925), Nordic Journal of STEM Education, Vol. 5 No. 1 (2021): Vol. 5, No. 1, MNT konferansen 2021
-- D. Barahona, M. Thiab, I. Díaz, J. Urdahl, M. Orlandic, "Improving Software Testing Speed by 100X with System C Virtualization in IoT Devices", DVCon U.S., Virtual, 2021
-- J. Garrett, S. Bakken, E. Prentice, D. Langer, F. Leira, E. Honoré-Livermore, R. Birkeland, M. Grøtte, T. A. Johansen, M. Orlandić, Hyperspectral Image Processing Pipelines on Multiple Platforms for Coordinated Oceanographic Observation, 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
-- J. Garrett, M. Bashir, T. A. Johansen, M. Orlandić, B. Raeissi, Detecting Pinholes in Coatings with Hyperspectral Imaging, 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
+- T. Bolstad, L. Lundheim, A. Strømberg, **M. Orlandic**, P. H. Zimmermann, [Sustainability in project-based learning: Project themes and self-perceived competencies](https://www.ntnu.no/ojs/index.php/njse/article/view/3925), Nordic Journal of STEM Education, Vol. 5 No. 1 (2021): Vol. 5, No. 1, MNT konferansen 2021
+- D. Barahona, M. Thiab, I. Díaz, J. Urdahl, **M. Orlandic**, "Improving Software Testing Speed by 100X with System C Virtualization in IoT Devices", DVCon U.S., Virtual, 2021
+- J. Garrett, S. Bakken, E. Prentice, D. Langer, F. Leira, E. Honoré-Livermore, R. Birkeland, M. Grøtte, T. A. Johansen, **M. Orlandić**, Hyperspectral Image Processing Pipelines on Multiple Platforms for Coordinated Oceanographic Observation, 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
+- J. Garrett, M. Bashir, T. A. Johansen, **M. Orlandić**, B. Raeissi, Detecting Pinholes in Coatings with Hyperspectral Imaging, 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
 
 ### 2020
 
 #### Journal publications
-- M. Ismail, M. Orlandić. [Segment-Based Clustering of Hyperspectral Images Using Tree-Based Data Partitioning Structures](https://www.mdpi.com/1999-4893/13/12/330), Algorithms 2020, 13, 330.
-- Đ. Bošković, M. Orlandić, and T. A. Johansen. [A reconfigurable multi-mode implementation of hyperspectral target detection algorithms]({% link _pdfs/MICPRO_2020_TD.pdf %}) Microprocessors and Microsystems 78 (2020): 103258.
+- M. Ismail, **M. Orlandić**. [Segment-Based Clustering of Hyperspectral Images Using Tree-Based Data Partitioning Structures](https://www.mdpi.com/1999-4893/13/12/330), Algorithms 2020, 13, 330.
+- Đ. Bošković, **M. Orlandić**, and T. A. Johansen. [A reconfigurable multi-mode implementation of hyperspectral target detection algorithms]({% link _pdfs/MICPRO_2020_TD.pdf %}) Microprocessors and Microsystems 78 (2020): 103258.
 
 #### Conference publications
-- J. Á. Justo, E. Eide and M. Orlandić, [Compressive Sensing on Three Dimensional SFCW Ground-Penetrating Radar]({% link _pdfs/MECO_2020_CS.pdf %}) 2020 9th Mediterranean Conference on Embedded Computing (MECO), Budva, Montenegro, 2020, pp. 1-6, doi: 10.1109/MECO49872.2020.9134267.
+- J. Á. Justo, E. Eide and **M. Orlandić**, [Compressive Sensing on Three Dimensional SFCW Ground-Penetrating Radar]({% link _pdfs/MECO_2020_CS.pdf %}) 2020 9th Mediterranean Conference on Embedded Computing (MECO), Budva, Montenegro, 2020, pp. 1-6, doi: 10.1109/MECO49872.2020.9134267.
 
 ### 2019
 
@@ -142,8 +144,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span"> 2 </td>
  <td markdown="span"> 3 </td>
   <td markdown="span"> 1 </td>
-  <td markdown="span"> 1 </td>
-  <td markdown="span"> 18 </td>
+  <td markdown="span"> 3 </td>
+  <td markdown="span"> 20 </td>
 </tr>
 <tr>
 <td markdown="span"> Conferance publications  </td>
@@ -152,7 +154,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span"> 1 </td>
  <td markdown="span"> 4 </td>
  <td markdown="span"> 7 </td>
- <td markdown="span"> 1 </td>
-  <td markdown="span"> 23 </td>
+ <td markdown="span"> 3 </td>
+  <td markdown="span"> 25 </td>
 </tr>
 </table>
