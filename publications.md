@@ -12,7 +12,7 @@ permalink: /publications/
 - T. Bolstad, L. Lundheim, **M. Orlandic**, A. Strømberg, P. Hardeberg Zimmermann, "Do Students Reflect on Sustainability? Student Development of Competencies for Sustainability in Project-Based Learning", Nordic Journal of STEM Education, 2023
 
 #### Conference publications
-- E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandić**, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Tolouse, France,  2023
+- E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandić**, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Toulouse, France,  2023
 - K. Müller, V. C. Gogineni, **M. Orlandic**, S. Werner, "Autoencoder-based Hyperspectral Anomaly Detection using Kernel Principal Component Pre-Processing", Eurosipco 2023,  accepted
 - E. Jellum, Y. Umuruglu, **M. Orlandic**, M. Schoeberl, "FPGA-tidbits: Rapid Prototyping of FPGA Accelerators in Chisel", DSD 2023, accepted
 
