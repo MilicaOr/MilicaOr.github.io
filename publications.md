@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
+
 ### 2023
 #### Journal publications
 - D. D. Langer, **M. Orlandić**, S. Bakken, R. Birkeland, J. L. Garrett, T. A. Johansen, A. J. Sørensen, Robust and Reconfigurable On-Board Processing for a Hyperspectral Imaging Small Satellite, Remote Sensing, Vol. 15, Article 3756, 2023
@@ -26,15 +27,15 @@ permalink: /publications/
 - S. Bakken, E. Honore-Livermore, R. Birkeland, **M Orlandić**, E. F. Prentice, J. L. Garrett, D. D. Langer, C. Haskins, T. A. Johansen, Software Development and Integration of a Hyperspectral Imaging Payload for HYPSO-1, IEEE/SICE International Symposium on System Integration (SII), 2022
 - E. R. Jellum, T. H. Bryne, T. A. Johansen, **M. Orlandić**, The Syncline Model - Analyzing the Impact of Time Synchronization in Sensor Fusion, 6th IEEE Conference on Control Technology and Applications, 2022
 - J. A. Justo, D. Lupu, **M. Orlandić**, I. Necoara, T. A. Johansen, A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction, IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece
-- S. Bakken, A. Danielsen, K. Døsvik, J. Garrett, **M. Orlandić**, D. Langer, T, A. Johansen, A modular hyperspectral image processing pipeline for cubesats, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
-- R. Birkeland, S. Berg, **M. Orlandic** and J. Garrett, On-board characterization of Hyperspectral image Exposure and Cloud coverage by compression ratio, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
+- S. Bakken, A. Danielsen, K. Døsvik, J. Garrett, **M. Orlandić**, D. Langer, T, A. Johansen, A modular hyperspectral image processing pipeline for CubeSats, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
+- R. Birkeland, S. Berg, **M. Orlandic** and J. Garrett, On-board characterization of Hyperspectral image Exposure and Cloud coverage by the compression ratio, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
 - J. A. Justo and **M. Orlandić**, Study of the gOMP Algorithm for Recovery of Compressed Hyperspectral Images, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
 
 
 ### 2021
 #### Journal publications
 - K. Avagian, **M. Orlandić**. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
-- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, **M. Orlandić**, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission [[link](https://ieeexplore.ieee.org/document/9447150), [full text]({% link _pdfs/HYPSO_Concept_rev3.pdf %})] , IEEE Trans. Geoscience and Remote Sensing, 2021
+- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, **M. Orlandić**, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission [[link](https://ieeexplore.ieee.org/document/9447150), [full text]({% link _pdfs/HYPSO_Concept_rev3.pdf %})], IEEE Trans. Geoscience and Remote Sensing, 2021
 - B. Raeissi, M. Bashir, J. L. Garrett, **M. Orlandic**, T. A. Johansen, T. Skramstad, Detection of different chemical binders in coatings using commercial hyperspectral imaging, J. Coatings Technology and Research, 2021
 
 #### Conference publications
