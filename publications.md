@@ -34,7 +34,7 @@ permalink: /publications/
 ### 2021
 #### Journal publications
 - K. Avagian, **M. Orlandić**. [An Efficient FPGA Implementation of Richardson–Lucy Deconvolution Algorithm for Hyperspectral Images](https://www.mdpi.com/2079-9292/10/4/504). Electronics 2021, 10, 504. https://doi.org/10.3390/electronics10040504
-- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, **M. Orlandić**, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission [link](https://ieeexplore.ieee.org/document/9447150), [full text]({% link _pdfs/HYPSO_Concept_rev3.pdf %})], IEEE Trans. Geoscience and Remote Sensing, 2021
+- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, **M. Orlandić**, J. T. Gravdahl, T. A. Johansen, Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission [link](https://ieeexplore.ieee.org/document/9447150), [full text]({% link _pdfs/HYPSO_Concept_rev3.pdf %}), IEEE Trans. Geoscience and Remote Sensing, 2021
 - B. Raeissi, M. Bashir, J. L. Garrett, **M. Orlandic**, T. A. Johansen, T. Skramstad, Detection of different chemical binders in coatings using commercial hyperspectral imaging, J. Coatings Technology and Research, 2021
 
 #### Conference publications
