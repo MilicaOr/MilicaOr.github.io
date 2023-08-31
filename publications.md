@@ -160,7 +160,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span"> 1 </td>
  <td markdown="span"> 4 </td>
  <td markdown="span"> 7 </td>
- <td markdown="span"> 3 </td>
-  <td markdown="span"> 25 </td>
+ <td markdown="span"> 8 </td>
+  <td markdown="span"> 30 </td>
 </tr>
 </table>
