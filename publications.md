@@ -9,13 +9,15 @@ permalink: /publications/
 ### 2023
 #### Journal publications
 - D. D. Langer, **M. Orlandić**, S. Bakken, R. Birkeland, J. L. Garrett, T. A. Johansen, A. J. Sørensen, Robust and Reconfigurable On-Board Processing for a Hyperspectral Imaging Small Satellite, Remote Sensing, Vol. 15, Article 3756, 2023
+- T. Bolstad, L. Lundheim, **M. Orlandic**, A. Strømberg, P. Hardeberg Zimmermann, Do Students Reflect on Sustainability? Student Development of Competencies for Sustainability in Project-Based Learning, Nordic Journal of STEM Education, 2023
+- S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, **M. Orlandić**, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
 
   
 
 #### Conference publications
 - E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandić**, M. Lohstroh and E. Lee, Beyond the threaded programming model on real-time operating systems, NG-RES workshop, Toulouse, France,  2023
-  
 - K. Müller, V. C. Gogineni, **M. Orlandic**, S. Werner, Autoencoder-based Hyperspectral Anomaly Detection using Kernel Principal Component Pre-Processing, Eusipco 2023,  accepted
+- E. Jellum, Y. Umuruglu, **M. Orlandic**, M. Schoeberl, FPGA-tidbits: Rapid Prototyping of FPGA Accelerators in Chisel, DSD 2023, accepted
 
 
 ### 2022
@@ -105,7 +107,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 
 #### Conference publications
 
-- M. Orlandić, and K. Svarstad. "An area efficient hardware architecture design for H. 264/AVC intra prediction reconstruction path based on partial reconfiguration." In 2013 IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS), pp. 86-91. IEEE, 2013.
+- M. Orlandić, and K. Svarstad. "An area-efficient hardware architecture design for H. 264/AVC intra prediction reconstruction path based on partial reconfiguration." In 2013 IEEE 16th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS), pp. 86-91. IEEE, 2013.
 
 - M. Orlandić, and K. Svarstad. "A low complexity H. 264/AVC 4× 4 intra prediction architecture with macroblock/block reordering." In 2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig), pp. 1-6. IEEE, 2013.
 
