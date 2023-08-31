@@ -27,9 +27,9 @@ permalink: /publications/
 - S. Bakken, R. Birkeland, J. L. Garrett, P. A. R. Marton, **M. Orlandić**, E. Honore-Livermore, D. D. Langer, C. Haskins, T. A. Johansen, Testing  of  Software-Intensive  Hyperspectral  Imaging  Payload for the  HYPSO-1  CubeSat, IEEE/SICE International Symposium on System Integration (SII), 2022
 - S. Bakken, E. Honore-Livermore, R. Birkeland, **M Orlandić**, E. F. Prentice, J. L. Garrett, D. D. Langer, C. Haskins, T. A. Johansen, Software Development and Integration of a Hyperspectral Imaging Payload for HYPSO-1, IEEE/SICE International Symposium on System Integration (SII), 2022
 - E. R. Jellum, T. H. Bryne, T. A. Johansen, **M. Orlandić**, The Syncline Model - Analyzing the Impact of Time Synchronization in Sensor Fusion, 6th IEEE Conference on Control Technology and Applications, 2022
-- J. A. Justo, D. Lupu, **M. Orlandić**, I. Necoara, T. A. Johansen, A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction, IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece
 - S. Bakken, A. Danielsen, K. Døsvik, J. Garrett, **M. Orlandić**, D. Langer, T, A. Johansen, A modular hyperspectral image processing pipeline for CubeSats, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
 - R. Birkeland, S. Berg, **M. Orlandic** and J. Garrett, On-board characterization of Hyperspectral image Exposure and Cloud coverage by the compression ratio, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
+- J. A. Justo, D. Lupu, **M. Orlandić**, I. Necoara, T. A. Johansen, A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction, IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Nafplio, Greece
 - J. A. Justo and **M. Orlandić**, Study of the gOMP Algorithm for Recovery of Compressed Hyperspectral Images, 12th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Rome, 2022
 
 
