@@ -10,12 +10,12 @@ permalink: /publications/
 #### Journal publications
 - D. D. Langer, **M. Orlandić**, S. Bakken, R. Birkeland, J. L. Garrett, T. A. Johansen, A. J. Sørensen, Robust and Reconfigurable On-Board Processing for a Hyperspectral Imaging Small Satellite, Remote Sensing, Vol. 15, Article 3756, 2023
 - S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, **M. Orlandić**, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
-- T. Bolstad, L. Lundheim, **M. Orlandic**, A. Strømberg, P. Hardeberg Zimmermann, "Do Students Reflect on Sustainability? Student Development of Competencies for Sustainability in Project-Based Learning", Nordic Journal of STEM Education, 2023
+- T. Bolstad, L. Lundheim, **M. Orlandic**, A. Strømberg, P. Hardeberg Zimmermann, Do Students Reflect on Sustainability? Student Development of Competencies for Sustainability in Project-Based Learning, Nordic Journal of STEM Education, 2023
 
 #### Conference publications
-- E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandić**, M. Lohstroh and E. Lee, "Beyond the threaded programming model on real-time operating systems", NG-RES workshop, Toulouse, France,  2023
-- K. Müller, V. C. Gogineni, **M. Orlandic**, S. Werner, "Autoencoder-based Hyperspectral Anomaly Detection using Kernel Principal Component Pre-Processing", Eurosipco 2023,  accepted
-- E. Jellum, Y. Umuruglu, **M. Orlandic**, M. Schoeberl, "FPGA-tidbits: Rapid Prototyping of FPGA Accelerators in Chisel", DSD 2023, accepted
+- E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandić**, M. Lohstroh and E. Lee, Beyond the threaded programming model on real-time operating systems, NG-RES workshop, Toulouse, France,  2023
+- K. Müller, V. C. Gogineni, **M. Orlandic**, S. Werner, Autoencoder-based Hyperspectral Anomaly Detection using Kernel Principal Component Pre-Processing, Eusipco 2023,  accepted
+- E. Jellum, Y. Umuruglu, **M. Orlandic**, M. Schoeberl, FPGA-tidbits: Rapid Prototyping of FPGA Accelerators in Chisel, DSD 2023, accepted
 
 ### 2022
 #### Journal publications
