@@ -9,8 +9,7 @@ permalink: /publications/
 ### 2023
 #### Journal publications
 - D. D. Langer, **M. Orlandić**, S. Bakken, R. Birkeland, J. L. Garrett, T. A. Johansen, A. J. Sørensen, Robust and Reconfigurable On-Board Processing for a Hyperspectral Imaging Small Satellite, Remote Sensing, Vol. 15, Article 3756, 2023
-  
-- S. Bakken, M. B. Henriksen, R. Birkeland, D. D. Langer, A. Oudijk, S. Berg, F. Gran-Jansen, Y. Pursley, J. Garrett, E. Honoré-Livermore, M. E. Grøtte, B. A. Kristiansen, **M. Orlandić**, A. J. Sørensen, F. Sigernes, G. Johnsen, T. A. Johansen, HYPSO-1 CubeSat: First Images and In-Orbit Results, Remote Sensing, 2023
+
   
 
 #### Conference publications
