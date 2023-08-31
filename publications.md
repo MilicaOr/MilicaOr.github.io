@@ -15,6 +15,7 @@ permalink: /publications/
 
 #### Conference publications
 - E. R. Jellum, S. Lin, P. Donovan, E. Soyer, F. Shakir, T. Bryne, **M. Orlandić**, M. Lohstroh and E. Lee, Beyond the threaded programming model on real-time operating systems, NG-RES workshop, Toulouse, France,  2023
+  
 - K. Müller, V. C. Gogineni, **M. Orlandic**, S. Werner, Autoencoder-based Hyperspectral Anomaly Detection using Kernel Principal Component Pre-Processing, Eusipco 2023,  accepted
 
 
