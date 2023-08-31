@@ -129,6 +129,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 <col width="10%" />
  <col width="10%" />
  <col width="10%" />
+   <col width="10%" />
+ <col width="10%" />
   <col width="30%" />
 </colgroup>
 <tr>
