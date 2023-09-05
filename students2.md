@@ -39,7 +39,7 @@ permalink: /students/
 <td markdown="span">  </td>
 </tr>
 <tr>
-<td markdown="span"> Braghe Gåso Samsonsen </td>
+<td markdown="span"> Brage Gåso Samsonsen </td>
 <td markdown="span">  </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ permalink: /students/
 <td markdown="span">  </td>
 </tr>
 <tr>
-<td markdown="span"> Cameeon Luis Penne</td>
+<td markdown="span"> Cameron Luis Penne</td>
 <td markdown="span">  </td>
 </tr>
 <tr>
@@ -66,10 +66,6 @@ permalink: /students/
 <td markdown="span"> Olivier Raphael Lesage Fongue</td>
 <td markdown="span">  </td>
 </tr>
-<tr>
-<td markdown="span"> Adam Gawlik, ARM</td>
-<td markdown="span">  </td>
-</tr>      
 <tr>
 <td markdown="span"> Adam Gawlik, ARM</td>
 <td markdown="span">  </td>
