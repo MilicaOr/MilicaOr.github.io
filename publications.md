@@ -20,10 +20,11 @@ permalink: /publications/
 - E. Jellum, Y. Umuruglu, **M. Orlandic**, M. Schoeberl, FPGA-tidbits: Rapid Prototyping of FPGA Accelerators in Chisel, DSD 2023, Durres, Albania,  2023
 - Y. E. Koc, C. Penne, J. Garrett and **M. Orlandic**, Exploration of Deep Learning for Cloud Segmentation in Multispectral and Hyperspectral Satellite Imagery, WHISPERS, Athens, 2023
 - C. Chiatante, D. D. Langer, J. L. Garrett, R. Birkeland, S. Berg and **M. Orlandic**, Onboard Hyperspectral Classification enables georeferencing, WHISPERS, Athens, 2023
-- A. Gundersen, S. Boyle and **M. Orlandic**, An Improved Adaptive Weighted Deep Belief Network Autoencoder for Hyperspectral Images, WHISPERS, Athens, 2023
+- A. Gundersen, S. Boyle and **M. Orlandić**, An Improved Adaptive Weighted Deep Belief Network Autoencoder for Hyperspectral Images, WHISPERS, Athens, 2023
 - C. Penne, J. Garrett, T. A. Johansen, **M. Orlandić** and R. Heggebø, Independent component Analysis: A Tool for Algal Bloom Detection, WHISPERS, Athens, 2023
-- J. Røysland, D. Langer, S. Berg, **M. Orlandic** and Joseph Garrett, Hyperspectral classification onboard the HYPSO-1 cubesat, WHISPERS, Athens, 2023
-
+- J. Røysland, D. Langer, S. Berg, **M. Orlandić** and Joseph Garrett, Hyperspectral classification onboard the HYPSO-1 cubesat, WHISPERS, Athens, 2023
+- S.Boyle, A. Gundersen and **M. Orlandić**, High-level FPGA design of Deep Learning Hyperspectral Anomaly Detection, Norcas, Aalborg, 2023
+  
 ### 2022
 #### Journal publications
 - E. R. Jellum, **M. Orlandic**, E. F. Brekke, T. A. Johansen, T. H. Bryne, Solving Sparse Assignment Problems on FPGAs, ACM Transactions on Architecture and Code Optimization (ACM TACO), 2022
@@ -164,7 +165,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span"> 1 </td>
  <td markdown="span"> 4 </td>
  <td markdown="span"> 7 </td>
- <td markdown="span"> 8 </td>
-  <td markdown="span"> 30 </td>
+ <td markdown="span"> 9 </td>
+  <td markdown="span"> 31 </td>
 </tr>
 </table>
