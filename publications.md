@@ -23,7 +23,7 @@ permalink: /publications/
 - A. Gundersen, S. Boyle and **M. Orlandić**, An Improved Adaptive Weighted Deep Belief Network Autoencoder for Hyperspectral Images, WHISPERS, Athens, 2023
 - C. Penne, J. Garrett, T. A. Johansen, **M. Orlandić** and R. Heggebø, Independent component Analysis: A Tool for Algal Bloom Detection, WHISPERS, Athens, 2023
 - J. Røysland, D. Langer, S. Berg, **M. Orlandić** and Joseph Garrett, Hyperspectral classification onboard the HYPSO-1 cubesat, WHISPERS, Athens, 2023
-- S.Boyle, A. Gundersen and **M. Orlandić**, High-level FPGA design of Deep Learning Hyperspectral Anomaly Detection, Norcas, Aalborg, 2023
+- S.Boyle, A. Gundersen and **M. Orlandić**, [High-level FPGA design of Deep Learning Hyperspectral Anomaly Detection]{https://ieeexplore.ieee.org/document/10305467}, Norcas, Aalborg, 2023
   
 ### 2022
 #### Journal publications
