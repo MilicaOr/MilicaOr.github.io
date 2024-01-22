@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
+### 2024
+#### Journal publications
+- V. C. Gogineni, K. Müller, M. Orlandić and S. Werner, "Lightweight Autonomous Autoencoders for Timely Hyperspectral Anomaly Detection," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3355471.
 
 ### 2023
 #### Journal publications
