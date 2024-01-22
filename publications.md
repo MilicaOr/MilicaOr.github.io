@@ -139,6 +139,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <col width="10%" />
    <col width="10%" />
  <col width="10%" />
+   <col width="10%" />
   <col width="30%" />
 </colgroup>
 <tr>
@@ -149,6 +150,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span">2021</td>
  <td markdown="span">2022</td>
  <td markdown="span">2023</td>
+   <td markdown="span">2024</td>
   <td markdown="span">Total</td>
 </tr>
 <tr>
@@ -159,7 +161,8 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span"> 3 </td>
   <td markdown="span"> 1 </td>
   <td markdown="span"> 3 </td>
-  <td markdown="span"> 20 </td>
+    <td markdown="span"> 1 </td>
+  <td markdown="span"> 21 </td>
 </tr>
 <tr>
 <td markdown="span"> Conference publications  </td>
@@ -169,6 +172,7 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
  <td markdown="span"> 4 </td>
  <td markdown="span"> 7 </td>
  <td markdown="span"> 9 </td>
+   <td markdown="span"> 0 </td>
   <td markdown="span"> 31 </td>
 </tr>
 </table>
