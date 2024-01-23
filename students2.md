@@ -80,7 +80,7 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Olivier Raphael Lesage Fongue</td>
-<td markdown="span">  </td>
+<td markdown="span">[Effecient Hardware for Principal Component Analysis of hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3104429)  </td>
 </tr>
 <tr>
 <td markdown="span"> Adam Gawlik, ARM</td>
