@@ -66,13 +66,17 @@ permalink: /students/
 <td markdown="span"> Cameron Luis Penne</td>
 <td markdown="span">  </td>
 </tr>
+ <tr>
+<td markdown="span"> Øyvind Skaaden</td>
+<td markdown="span">["System Integration of the HYPSO-2 SDR: Enabling Fault-Tolerant Payload Operations and an Efficient Development Environment"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3100117) </td>
+</tr>
 <tr>
 <td markdown="span"> Magnus Ramsfjell</td>
 <td markdown="span">  </td>
 </tr>
 <tr>
 <td markdown="span"> Besjan Tomja</td>
-<td markdown="span">  </td>
+<td markdown="span">["Enhancing Versatility and Efficiency of the CCSDS-123 Compression Algorithm through Dynamic Partial Reconfiguration for the HYPSO Mission"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3098772)  </td>
 </tr>
 <tr>
 <td markdown="span"> Olivier Raphael Lesage Fongue</td>
