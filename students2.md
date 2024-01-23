@@ -72,7 +72,7 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Magnus Ramsfjell</td>
-<td markdown="span">  </td>
+<td markdown="span">[FPGA Accelerated Convolution Layer Implementation for Semantic Segmentation of Hyperspectral Images]  </td>
 </tr>
 <tr>
 <td markdown="span"> Besjan Tomja</td>
