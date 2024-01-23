@@ -32,15 +32,15 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span"> Katinka Müller </td>
-<td markdown="span">  </td>
+<td markdown="span"> ["Optimized Hyperspectral Anomaly Detectors: Improved Performance and Reduced Computational Complexity"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3092839)  </td> </td>
 </tr>
 <tr>
 <td markdown="span"> Helene Markeng</td>
-<td markdown="span">  </td>
+<td markdown="span"> ["Exploratory Pipeline for Reconstructing Compressive Sensed Images and Small Cloud Removal using 3D convolutional U-nets"] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3102799) </td>
 </tr>
 <tr>
-<td markdown="span"> Brage Gåso Samsonsen </td>
-<td markdown="span">  </td>
+<td markdown="span"> Brage Gåsø Samsonsen </td>
+<td markdown="span"> ["Enhanced Graph Autoencoders for Hyperspectral Anomaly Detection"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3092838) </td>
 </tr>
 <tr>
 <td markdown="span"> Jonas Gjendem Røysland</td>
