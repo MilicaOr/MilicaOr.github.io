@@ -22,6 +22,18 @@ permalink: /students/
 <td markdown="span"> <img src="/_images/djordjije.jpg" alt="drawing" width="150"/>  </td>
 <td markdown="span">[Đorđije Bošković](https://www.ntnu.edu/employees/dordije.boskovic)</td>
 </tr>
+<tr>
+<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
+<td markdown="span">[Corrado Chiantante](https://www.ntnu.edu/employees/corrado.chiatante)</td>
+</tr>
+<tr>
+<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
+<td markdown="span">[Cameron Louis Penne](https://www.ntnu.no/ansatte/cameron.l.penne)</td>
+</tr>
+<tr>
+<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
+<td markdown="span">[Samuel Boyle](https://www.ntnu.edu/employees/samuel.boyle)</td>
+</tr>
 </table>
 ## MSc. students
 ### 2022-2023
@@ -44,11 +56,11 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Jonas Gjendem Røysland</td>
-<td markdown="span">  </td>
+<td markdown="span">["Real-time classification onboard the HYPSO-1 satellite"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3091477)  </td>
 </tr>
 <tr>
 <td markdown="span"> Samuel Boyle</td>
-<td markdown="span">  </td>
+<td markdown="span"> [Design Space Exploration of FPGA Accelerators for Hyperspectral Anomaly Detection](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3093196) </td>
 </tr>
 <tr>
 <td markdown="span"> Cameron Luis Penne</td>
