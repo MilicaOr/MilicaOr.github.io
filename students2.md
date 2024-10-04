@@ -47,19 +47,21 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span"> Daniel Vorhaug  </td>
-<td markdown="span">[""]
+<td markdown="span">[]
  </td>
 </tr>
 <tr>
 <td markdown="span">Luis Valls Sansaloni  </td>
-<td markdown="span">[""]
+<td markdown="span">[]
 </td>
 </tr>
 <tr>
 <td markdown="span"> Simen L. Eine </td>
-<td markdown="span"> [""]</td>
+<td markdown="span"> []
+</td>
+ </tr>
  <td markdown="span"> Nicolas Abril </td>
-<td markdown="span"> [""]</td>
+<td markdown="span"> []</td>
 </tr>    
 </table>
 
