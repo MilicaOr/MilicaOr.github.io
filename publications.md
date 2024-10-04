@@ -7,7 +7,14 @@ permalink: /publications/
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 ### 2024
 #### Journal publications
-- V. C. Gogineni, K. Müller, M. Orlandić and S. Werner, "Lightweight Autonomous Autoencoders for Timely Hyperspectral Anomaly Detection," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3355471.
+- V. C. Gogineni, K. Müller, **M. Orlandić** and S. Werner, "Lightweight Autonomous Autoencoders for Timely Hyperspectral Anomaly Detection," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3355471, 2024
+- E. R. Jellum, M. Schoeberl, E. A. Lee, **M. Orlandic**, "Codesign of reactor-oriented hardware and software for cyber-physical systems", in ACM Trans. Reconfigurable Technol. Syst., doi: 10.1145/3672083, 2024
+
+#### Conference publications
+- D. Vorhaug, S. Boyle, S. Eine, M. Orlandić, "Development and Integration of CCSDS 123.0-B-2 FPGA Accelerator for HYPSO-1", OBPDC 2024 - 9th International Workshop on On-Board Payload Data Compression, Gran Canaria, 2024
+- C. Penne, M. Orlandić, J. L. Garrett, "Hyperspectral Change Detection for monitoring harmful algae blooms in aquatic scenes using independent component analysis", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
+- S. L. Eine, D. D. Langerb, R. Birkeland and M. Orlandić, "Reconfiguration of FPGA during operation of small satellite for flexible hyperspectral data compression", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
+- C. Chiatante, S. Berg, J. L. Garrett, D. Ø. Halvorsenb, R. Birkelandd, M. Orlandic, "A Coordinated Approach Using Hyperspectral Satellite and USV for Algae Bloom Monitoring in Norwegian Coastal Waters", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
 
 ### 2023
 #### Journal publications
