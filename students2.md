@@ -60,6 +60,7 @@ permalink: /students/
 <td markdown="span"> []
 </td>
  </tr>
+<tr>
  <td markdown="span"> Nicolas Abril </td>
 <td markdown="span"> []</td>
 </tr>    
