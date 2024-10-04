@@ -38,6 +38,30 @@ permalink: /students/
 </tr>
 </table>
 ## MSc. students
+### 2023-2024
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<tr>
+<td markdown="span"> Daniel Vorhaug  </td>
+<td markdown="span">[""]
+ </td>
+</tr>
+<tr>
+<td markdown="span">Luis Valls Sansaloni  </td>
+<td markdown="span">[""]
+</td>
+</tr>
+<tr>
+<td markdown="span"> Simen L. Eine </td>
+<td markdown="span"> [""]</td>
+ <td markdown="span"> Nicolas Abril </td>
+<td markdown="span"> [""]</td>
+</tr>    
+</table>
+
 ### 2022-2023
 <table>
 <colgroup>
