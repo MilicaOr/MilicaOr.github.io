@@ -11,7 +11,8 @@ permalink: /students/
 <table>
 <colgroup>
 <col width="30%" />
-<col width="70%" />
+<col width="30%" />
+ <col width="40%" />
 </colgroup>
 <tr>
 <td markdown="span"><img src="/_images/erling.JPG" alt="drawing" width="150"/> </td>
