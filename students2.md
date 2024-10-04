@@ -17,6 +17,8 @@ permalink: /students/
 <td markdown="span"><img src="/_images/erling.JPG" alt="drawing" width="150"/> </td>
 <td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
 </td>
+<td markdown="span">[Predictable computing for cyber-physical systems](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3120111)
+</td>
 </tr>
 <tr>
 <td markdown="span"> <img src="/_images/djordjije.jpg" alt="drawing" width="150"/>  </td>
