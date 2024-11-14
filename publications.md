@@ -16,7 +16,7 @@ permalink: /publications/
 - S. L. Eine, D. D. Langerb, R. Birkeland and M. Orlandić, "Reconfiguration of FPGA during operation of small satellite for flexible hyperspectral data compression", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
 - C. Chiatante, S. Berg, J. L. Garrett, D. Ø. Halvorsenb, R. Birkelandd, M. Orlandic, "A Coordinated Approach Using Hyperspectral Satellite and USV for Algae Bloom Monitoring in Norwegian Coastal Waters", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
 - C. Chiatante, K. Døsvik, S. Boyle, R.Birkeland, M. Orlandić, "A Design Space Exploration of onboard processing pipeline for Hyperspectral Satellites", Model-Based Space Systems and Software Engineering (MBSE2024), Bremen, Germany
--  D. Vorhaug, S. Boyle, S. Eine, M. Orlandić, "High-Level CCSDS 123.0-B-2 Hyperspectral Image Compressor Verification Model", Whispers 2024, Finland
+-  D. Vorhaug, S. Boyle, M. Orlandić, "High-Level CCSDS 123.0-B-2 Hyperspectral Image Compressor Verification Model", Whispers 2024, Finland
   
 ### 2023
 #### Journal publications
