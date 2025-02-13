@@ -47,17 +47,17 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span"> Daniel Vorhaug  </td>
-<td markdown="span">[]
+<td markdown="span">[Hyperspectral Image Compression Accelerator On FPGA Using CCSDS 123.0-B-2](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3158613)
  </td>
 </tr>
 <tr>
 <td markdown="span">Luis Valls Sansaloni  </td>
-<td markdown="span">[]
+<td markdown="span">[Hardware implementation of machine learning algorithms for image processing](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3159394?show=full&locale-attribute=en)
 </td>
 </tr>
 <tr>
 <td markdown="span"> Simen L. Eine </td>
-<td markdown="span"> []
+<td markdown="span"> [In-orbit testing of FPGA designs on HYPSO-1](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3155575?show=full)
 </td>
  </tr>
 <tr>
