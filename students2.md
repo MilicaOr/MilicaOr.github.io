@@ -96,7 +96,7 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Cameron Luis Penne</td>
-<td markdown="span">  </td>
+<td markdown="span"> [https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3117015](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3117015) </td>
 </tr>
  <tr>
 <td markdown="span"> Øyvind Skaaden</td>
