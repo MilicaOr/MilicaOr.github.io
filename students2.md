@@ -169,15 +169,15 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Aksel Gundersen </td>
-<td markdown="span"> Anomaly Detection in Hyperspectral Images </td>
+<td markdown="span"> ["Hardware-Software partitioned implementation of an autoencoder-based hyperspectral anomaly detector"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823497) </td>
 </tr>
 <tr>
 <td markdown="span"> Sondre Tagestad  </td>
-<td markdown="span"> Image classification using Convolutional Neural Networks </td>
+<td markdown="span"> ["Hardware acceleration of a compact CNN model for semantic segmentation of hyperspectral satellite images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2826391) </td>
 </tr>
         <tr>
 <td markdown="span"> Yunus Emre Koc </td>
-<td markdown="span"> Cloud segmentation using AI to reduce data transmission
+<td markdown="span"> ["Exploration of Deep Learning for Cloud Segmentation in Multispectral and Hyperspectral Satellite Imagery"]
  </td>
 </tr>
         <tr>
