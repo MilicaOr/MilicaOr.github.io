@@ -64,7 +64,7 @@ permalink: /students/
  </tr>
 <tr>
  <td markdown="span"> Nicolas Abril </td>
-<td markdown="span"> [FPGA implementation of PCA approximate methods for hyperspectral imaging] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3160196)</td>
+<td markdown="span"> [FPGA implementation of PCA approximate methods for hyperspectral imaging](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3160196)</td>
 </tr>    
 </table>
 
