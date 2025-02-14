@@ -95,8 +95,8 @@ permalink: /students/
 <td markdown="span"> [Design Space Exploration of FPGA Accelerators for Hyperspectral Anomaly Detection](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3093196) </td>
 </tr>
 <tr>
-<td markdown="span"> Cameron Luis Penne</td>
-<td markdown="span"> [https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3117015](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3117015) </td>
+<td markdown="span"> Cameron Louis Penne</td>
+<td markdown="span"> ["Exploration of Deep Learning for Cloud Segmentation in Multispectral and Hyperspectral Satellite Imagery"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3117015) </td>
 </tr>
  <tr>
 <td markdown="span"> Øyvind Skaaden</td>
