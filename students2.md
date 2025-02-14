@@ -48,6 +48,8 @@ permalink: /students/
 <tr>
 <td markdown="span"> Daniel Vorhaug  </td>
 <td markdown="span">[Hyperspectral Image Compression Accelerator On FPGA Using CCSDS 123.0-B-2](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3158613)
+ <br> Publications: [Whispers 2024], [ESA OBPDC2024]
+  <br> Award: [FPGA forum award 2024](http://www.fpga-forum.no/awards/)  
  </td>
 </tr>
 <tr>
@@ -62,7 +64,7 @@ permalink: /students/
  </tr>
 <tr>
  <td markdown="span"> Nicolas Abril </td>
-<td markdown="span"> []</td>
+<td markdown="span"> [FPGA implementation of PCA approximate methods for hyperspectral imaging] (https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3160196)</td>
 </tr>    
 </table>
 
