@@ -213,40 +213,40 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Jon Alvarez Justo </td>
-<td markdown="span"> "Compressive Sensing on Ground-Penetrating Radar"
+<td markdown="span"> Compressive Sensing on Ground-Penetrating Radar
                <br> Publications: [MECO conference 2020]({% link _pdfs/MECO_2020_CS.pdf %})</td>
 </tr>
 <tr>
 <td markdown="span"> Christoffer Boothby </td>
-<td markdown="span"> ["A software implementation of the CCSDS 123Issue 2 compression standard"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778129) </td>
+<td markdown="span"> [A software implementation of the CCSDS 123Issue 2 compression standard](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778129) </td>
 </tr>
 <tr>
 <td markdown="span"> Joar Gjersund  </td>
-<td markdown="span"> ["A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778120) </td>
+<td markdown="span"> [A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778120) </td>
 </tr>
 <tr>
 <td markdown="span"> Mohamed Hassan Ismail </td>
-<td markdown="span"> ["HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2834525)
+<td markdown="span"> [HW/SW Co-design Implementation of Hyperspectral Image Classification Algorithm](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2834525)
   <br> Publication: [MDPI Algorithms](https://www.mdpi.com/1999-4893/13/12/330)
   <br> Award: [FPGA forum award 2019](http://www.fpga-forum.no/awards/)  
 </td>
 </tr>
 <tr>
 <td markdown="span"> Max Montzka </td>
-<td markdown="span"> ["Fast Spectrograph Corrections on Programmable Logic"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778136) </td>
+<td markdown="span"> [Fast Spectrograph Corrections on Programmable Logic](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778136) </td>
 </tr>
 
 <tr>
 <td markdown="span"> David Barahona Pereira </td>
-<td markdown="span"> "Virtual Prototypes for Embedded Software Testing: A SystemC Based Proof of Concept
-Implementation" 
+<td markdown="span"> Virtual Prototypes for Embedded Software Testing: A SystemC Based Proof of Concept
+Implementation 
          <br> Publication: [DVCon Conference 2021](https://2021.dvcon.org/)
         <br> Award: [Best Poster Award](https://twitter.com/dvcon_us/status/1367286797902909441?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1367286797902909441%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdvcon_us2Fstatus2F1367286797902909441widget%3DTweet)
         </td>
 </tr>
 <tr>
 <td markdown="span"> Motaz Ibrahim Ahmad Thiab </td>
-<td markdown="span"> "Virtual prototype of low-power digital architectures in SystemC"
+<td markdown="span"> Virtual prototype of low-power digital architectures in SystemC
         <br> Publication: [DVCon Conference 2021](https://2021.dvcon.org/)
         <br> Award: [Best Poster Award](https://twitter.com/dvcon_us/status/1367286797902909441?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1367286797902909441%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdvcon_us2Fstatus2F1367286797902909441widget%3DTweet)
         </td>
@@ -269,18 +269,18 @@ Implementation"
 </colgroup>
 <tr>
 <td markdown="span"> Karine Avagian  </td>
-<td markdown="span">["An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) 
+<td markdown="span">[An FPGA-oriented Hardware Implementation of Richardson-Lucy Deconvolution Algorithm for Hyperspectral Images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624662) 
 <br> Publications: [MECO conference article]({% link _pdfs/MECO_2019_DEC.pdf %}), [MDPI Elecronics](https://www.mdpi.com/2079-9292/10/4/504)
  </td>
 </tr>
 <tr>
 <td markdown="span">Djordjije Boskovic  </td>
-<td markdown="span">["Hardware implementation of a target detection algorithm for hyperspectral images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
+<td markdown="span">[Hardware implementation of a target detection algorithm for hyperspectral images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624684)
 <br> Publications: [MECO conference article]({% link _pdfs/meco.pdf%}), [MICPRO article]({% link _pdfs/MICPRO_2020_TD.pdf %})  <br> Award: [NIFRO award 2020](https://nifro.no/nyheter/dordije-boskovic-from-ntnu-wins-the-2020-nifro-award/)      </td>
 </tr>
 <tr>
 <td markdown="span"> Andreas Varntresk </td>
-<td markdown="span"> ["Assembly and testing of baseline processing chain"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624678) </td>
+<td markdown="span"> [Assembly and testing of baseline processing chain](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2624678) </td>
 </tr>    
 </table>
 
