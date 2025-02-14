@@ -76,19 +76,19 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span"> Katinka Müller </td>
-<td markdown="span"> ["Optimized Hyperspectral Anomaly Detectors: Improved Performance and Reduced Computational Complexity"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3092839) </td>
+<td markdown="span"> [Optimized Hyperspectral Anomaly Detectors: Improved Performance and Reduced Computational Complexity](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3092839) </td>
 </tr>
 <tr>
 <td markdown="span"> Helene Markeng</td>
-<td markdown="span"> ["Exploratory Pipeline for Reconstructing Compressive Sensed Images and Small Cloud Removal using 3D convolutional U-nets"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3102799) </td>
+<td markdown="span"> [Exploratory Pipeline for Reconstructing Compressive Sensed Images and Small Cloud Removal using 3D convolutional U-nets](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3102799) </td>
 </tr>
 <tr>
 <td markdown="span"> Brage Gåsø Samsonsen </td>
-<td markdown="span"> ["Enhanced Graph Autoencoders for Hyperspectral Anomaly Detection"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3092838) </td>
+<td markdown="span"> [Enhanced Graph Autoencoders for Hyperspectral Anomaly Detection](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3092838) </td>
 </tr>
 <tr>
 <td markdown="span"> Jonas Gjendem Røysland</td>
-<td markdown="span">["Real-time classification onboard the HYPSO-1 satellite"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3091477)  </td>
+<td markdown="span">[Real-time classification onboard the HYPSO-1 satellite](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3091477)  </td>
 </tr>
 <tr>
 <td markdown="span"> Samuel Boyle</td>
@@ -96,11 +96,11 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Cameron Louis Penne</td>
-<td markdown="span"> ["Exploration of Deep Learning for Cloud Segmentation in Multispectral and Hyperspectral Satellite Imagery"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3117015) </td>
+<td markdown="span"> [Exploration of Deep Learning for Cloud Segmentation in Multispectral and Hyperspectral Satellite Imagery](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3117015) </td>
 </tr>
  <tr>
 <td markdown="span"> Øyvind Skaaden</td>
-<td markdown="span">["System Integration of the HYPSO-2 SDR: Enabling Fault-Tolerant Payload Operations and an Efficient Development Environment"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3100117) </td>
+<td markdown="span">[System Integration of the HYPSO-2 SDR: Enabling Fault-Tolerant Payload Operations and an Efficient Development Environment](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3100117) </td>
 </tr>
 <tr>
 <td markdown="span"> Magnus Ramsfjell</td>
@@ -108,7 +108,7 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Besjan Tomja</td>
-<td markdown="span">["Enhancing Versatility and Efficiency of the CCSDS-123 Compression Algorithm through Dynamic Partial Reconfiguration for the HYPSO Mission"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3098772)  </td>
+<td markdown="span">[Enhancing Versatility and Efficiency of the CCSDS-123 Compression Algorithm through Dynamic Partial Reconfiguration for the HYPSO Mission](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3098772)  </td>
 </tr>
 <tr>
 <td markdown="span"> Olivier Raphael Lesage Fongue</td>
@@ -132,28 +132,28 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span"> Simen Netteland </td>
-<td markdown="span">["Exploration and Implementation of Large CNN Models for Image Segmentation in Hyperspectral CubeSat Missions"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3020478)  </td>
+<td markdown="span">[Exploration and Implementation of Large CNN Models for Image Segmentation in Hyperspectral CubeSat Missions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3020478)  </td>
 </tr>
 <tr>
 <td markdown="span"> Kristine Døsvik </td>
-<td markdown="span">["Design space exploration for hyperspectral image processing pipeline in HYPSO mission"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3028708) </td> 
+<td markdown="span">[Design space exploration for hyperspectral image processing pipeline in HYPSO mission](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3028708) </td> 
 </tr>
 <tr>
 <td markdown="span"> Kåre-Benjamin Rørvik</td>
-<td markdown="span">["Next generation compression algorithm"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3031284)  </td>
+<td markdown="span">[Next generation compression algorithm](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3031284)  </td>
 </tr>
 <tr>
 <td markdown="span"> Matias Haugum</td>
-<td markdown="span">["Designing a Flow-Through Particle Imaging System for Autonomous Surface Vehicles"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3029428)  </td>
+<td markdown="span">[Designing a Flow-Through Particle Imaging System for Autonomous Surface Vehicles](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3029428)  </td>
 </tr>
 <tr>
 <td markdown="span"> Simen Berg</td>
-<td markdown="span">["Maximizing Payload Utilization of the HYPSO-1 Satellite"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3033744)  </td>
+<td markdown="span">[Maximizing Payload Utilization of the HYPSO-1 Satellite](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3033744)  </td>
 <td markdown="span">  </td>
 </tr>
 <tr>
 <td markdown="span"> Torbjørn Bratvold </td>
- <td markdown="span">[" Near Real-time Hyperspectral Image Classification for In-orbit Decissionmaking HYPSO-1"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3031514)  </td>
+ <td markdown="span">[Near Real-time Hyperspectral Image Classification for In-orbit Decissionmaking HYPSO-1](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3031514)  </td>
 </tr>
 </table>
 
@@ -169,15 +169,15 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Aksel Gundersen </td>
-<td markdown="span"> ["Hardware-Software partitioned implementation of an autoencoder-based hyperspectral anomaly detector"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823497) </td>
+<td markdown="span"> [Hardware-Software partitioned implementation of an autoencoder-based hyperspectral anomaly detector](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2823497) </td>
 </tr>
 <tr>
 <td markdown="span"> Sondre Tagestad  </td>
-<td markdown="span"> ["Hardware acceleration of a compact CNN model for semantic segmentation of hyperspectral satellite images"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2826391) </td>
+<td markdown="span"> [Hardware acceleration of a compact CNN model for semantic segmentation of hyperspectral satellite images](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2826391) </td>
 </tr>
         <tr>
 <td markdown="span"> Yunus Emre Koc </td>
-<td markdown="span"> ["Exploration of Deep Learning for Cloud Segmentation in Multispectral and Hyperspectral Satellite Imagery"]
+<td markdown="span"> [Exploration of Deep Learning for Cloud Segmentation in Multispectral and Hyperspectral Satellite Imagery]
  </td>
 </tr>
         <tr>
@@ -194,7 +194,7 @@ permalink: /students/
 </tr>  
 <tr>
 <td markdown="span"> Elvira Aalerud </td>
-<td markdown="span"> Hyperspectral Imaging Toolbox </td>
+<td markdown="span"> [Hyperspectral Imaging Toolbox](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2996830) </td>
 </tr>  
 </table>
 
