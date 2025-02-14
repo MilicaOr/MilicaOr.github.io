@@ -218,11 +218,11 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Christoffer Boothby </td>
-<td markdown="span"> "A software implementation of the CCSDS 123Issue 2 compression standard" </td>
+<td markdown="span"> ["A software implementation of the CCSDS 123Issue 2 compression standard"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778129) </td>
 </tr>
 <tr>
 <td markdown="span"> Joar Gjersund  </td>
-<td markdown="span"> "A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat" </td>
+<td markdown="span"> ["A Reconfigurable Fault-Tolerant OnBoard Processing System For The HYPSO CubeSat"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778120) </td>
 </tr>
 <tr>
 <td markdown="span"> Mohamed Hassan Ismail </td>
@@ -233,7 +233,7 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span"> Max Montzka </td>
-<td markdown="span"> "Fast Spectrograph Corrections on Programmable Logic" </td>
+<td markdown="span"> ["Fast Spectrograph Corrections on Programmable Logic"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778136) </td>
 </tr>
 
 <tr>
@@ -253,7 +253,7 @@ Implementation"
 </tr>
 <tr>
 <td markdown="span"> Kristina Thue </td>
-<td markdown="span"> "Accelerating compact CNN models for image segmentation using Vivado HLS" </td>
+<td markdown="span"> ["Accelerating compact CNN models for image segmentation using Vivado HLS"](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778128) </td>
 </tr>
         
 </table>
