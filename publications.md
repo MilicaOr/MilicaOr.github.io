@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
+### 2025
+#### Journal publications
+- D. Lupu, J. L. Garrett, T. A. Johansen, M. Orlandic, I. Necoara, Quick unsupervised hyperspectral dimensionality reduction for earth observation: a comparison, IEEE Trans. Computational Imaging, 2025; https://doi.org/10.1109/TCI.2025.3555137
+
+
 ### 2024
 #### Journal publications
 - V. C. Gogineni, K. Müller, **M. Orlandić** and S. Werner, "Lightweight Autonomous Autoencoders for Timely Hyperspectral Anomaly Detection," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3355471, 2024
@@ -153,35 +158,35 @@ SPIE Optical Engineering + Applications Conference, CubeSats and SmallSats for R
 </colgroup>
 <tr>
 <td markdown="span"> Year  </td>
-<td markdown="span">2010-2018</td>
- <td markdown="span">2019</td>
+<td markdown="span">2010-2019</td>
  <td markdown="span">2020</td>
  <td markdown="span">2021</td>
  <td markdown="span">2022</td>
  <td markdown="span">2023</td>
    <td markdown="span">2024</td>
+   <td markdown="span">2025</td>
   <td markdown="span">Total</td>
 </tr>
 <tr>
 <td markdown="span"> Journal publications  </td>
-<td markdown="span">9</td>
- <td markdown="span">2</td>
+<td markdown="span">11</td>
  <td markdown="span"> 2 </td>
  <td markdown="span"> 3 </td>
   <td markdown="span"> 1 </td>
   <td markdown="span"> 3 </td>
     <td markdown="span"> 2 </td>
-  <td markdown="span"> 22 </td>
+   <td markdown="span">1</td>
+  <td markdown="span"> 23 </td>
 </tr>
 <tr>
 <td markdown="span"> Conference publications  </td>
-<td markdown="span">7</td>
- <td markdown="span">3</td>
+<td markdown="span">10</td>
  <td markdown="span"> 1 </td>
  <td markdown="span"> 4 </td>
  <td markdown="span"> 7 </td>
  <td markdown="span"> 9 </td>
    <td markdown="span"> 5 </td>
+   <td markdown="span"> - </td>
   <td markdown="span"> 36 </td>
 </tr>
 </table>
