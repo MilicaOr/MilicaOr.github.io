@@ -38,7 +38,17 @@ permalink: /projects/
 <tr>
 <td markdown="span"> 2025-2029  </td>
 <td markdown="span"> AutoSatOp  </td>
+<td markdown="span">  NFR </td>
+</tr>
+<tr>
+<td markdown="span"> 2022-2026  </td>
+<td markdown="span">   SentiPro - Multi-Sensor Data Timing, Synchronization and Fusion for Intelligent Robots  </td>
 <td markdown="span">  NFR IKTPLUSS</td>
+</tr>
+<tr>
+<td markdown="span"> 2022-2025  </td>
+<td markdown="span">   Observational Pyramid with Hyperspectral Nano-Satellites for Ocean Science (HYPSCI) </td>
+<td markdown="span">  NFR and NTNU (fellesløftet)</td>
 </tr>
 </table>
 ### MASSIVE project
