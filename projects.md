@@ -25,6 +25,21 @@ permalink: /projects/
 <td markdown="span"> Efficient Learning and Optimization Tools for Hyperspectral Imaging Systems (ELO-Hyp)</td>
 <td markdown="span"> NO Grants 2014-2021</td>
 </tr>
+<tr>
+<td markdown="span"> 2022-2023  </td>
+<td markdown="span"> FauBai  </td>
+<td markdown="span">  ESA</td>
+</tr>
+<tr>
+<td markdown="span"> 2023-2027  </td>
+<td markdown="span"> ARIEL  </td>
+<td markdown="span">  NFR IKTPLUSS</td>
+</tr>
+<tr>
+<td markdown="span"> 2025-2029  </td>
+<td markdown="span"> AutoSatOp  </td>
+<td markdown="span">  NFR IKTPLUSS</td>
+</tr>
 </table>
 ### MASSIVE project
 
