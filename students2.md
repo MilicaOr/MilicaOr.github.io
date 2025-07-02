@@ -76,7 +76,11 @@ permalink: /students/
  <tr>
  <td markdown="span">  Jan Erik Schopmeier </td>
 <td markdown="span"> </td>
-</tr>    
+</tr> 
+ <tr>
+ <td markdown="span">  Urban Mikic </td>
+<td markdown="span"> </td>
+</tr> 
 </table>
 ### 2023-2024
 <table>
