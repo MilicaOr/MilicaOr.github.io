@@ -39,6 +39,45 @@ permalink: /students/
 </tr>
 </table>
 ## MSc. students
+### 2024-2025
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<tr>
+<td markdown="span"> Elise Mjøen  </td>
+<td markdown="span"> 
+ </td>
+</tr>
+<tr>
+<td markdown="span">Eirik Brandvik Langseth  </td>
+<td markdown="span">
+</td>
+</tr>
+<tr>
+<td markdown="span"> Sif Anna Lyken </td>
+<td markdown="span"> 
+</td>
+ </tr>
+<tr>
+ <td markdown="span"> Philip Berg </td>
+<td markdown="span"> </td>
+</tr>
+
+  <tr>
+ <td markdown="span">  Piotr Mikulowski  </td>
+<td markdown="span"> </td>
+</tr>  
+ <tr>
+ <td markdown="span"> Line Høybakk </td>
+<td markdown="span"> </td>
+</tr>    
+ <tr>
+ <td markdown="span">  Jan Erik Schopmeier </td>
+<td markdown="span"> </td>
+</tr>    
+</table>
 ### 2023-2024
 <table>
 <colgroup>
