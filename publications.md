@@ -8,12 +8,16 @@ permalink: /publications/
 ### 2025
 #### Journal publications
 - D. Lupu, J. L. Garrett, T. A. Johansen, M. Orlandic, I. Necoara, Quick unsupervised hyperspectral dimensionality reduction for earth observation: a comparison, IEEE Trans. Computational Imaging, 2025; https://doi.org/10.1109/TCI.2025.3555137
+- E. R. Jellum, M. Schoeberl, E. A. Lee, **M. Orlandic**, "Codesign of reactor-oriented hardware and software for cyber-physical systems", in ACM Trans. Reconfigurable Technol. Syst., doi: 10.1145/3672083, 2024
 
+#### Conference publications
+- S. Boyle, P. Mikulowski, **M. Orlandić**, Onboard Accelerator of Hyperspectral Classification For HYPSO, 14th Mediterranean Conference on Embedded Computing (MECO), DOI: 10.1109/MECO66322.2025.11049208,  June 2025
+- C. Penne, Perumthuruthil Suseelan V., M. Orlandić, Partial Least Squares Regression Chlorophyll-A Estimation pipeline for HYPSO-1 &-2 Hyperspectral Cube Satellites, IGARSS, accepted for presentation, Brisbane, Australia, August 2025, 
 
 ### 2024
 #### Journal publications
 - V. C. Gogineni, K. Müller, **M. Orlandić** and S. Werner, "Lightweight Autonomous Autoencoders for Timely Hyperspectral Anomaly Detection," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3355471, 2024
-- E. R. Jellum, M. Schoeberl, E. A. Lee, **M. Orlandic**, "Codesign of reactor-oriented hardware and software for cyber-physical systems", in ACM Trans. Reconfigurable Technol. Syst., doi: 10.1145/3672083, 2024
+
 
 #### Conference publications
 - D. Vorhaug, S. Boyle, S. Eine, M. Orlandić, "Development and Integration of CCSDS 123.0-B-2 FPGA Accelerator for HYPSO-1", OBPDC 2024 - 9th International Workshop on On-Board Payload Data Compression, Gran Canaria, 2-4. October 2024
