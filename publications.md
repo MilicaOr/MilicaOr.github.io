@@ -14,6 +14,9 @@ permalink: /publications/
 - S. Boyle, P. Mikulowski, **M. Orlandić**, Onboard Accelerator of Hyperspectral Classification For HYPSO, 14th Mediterranean Conference on Embedded Computing (MECO), DOI: 10.1109/MECO66322.2025.11049208,  June 2025
 - C. Penne, Perumthuruthil Suseelan V., M. Orlandić, Partial Least Squares Regression Chlorophyll-A Estimation pipeline for HYPSO-1 &-2 Hyperspectral Cube Satellites, IGARSS, Brisbane, Australia, August 2025,
 - C. Penne, M.Orlandic, J.Garrett, "Multimodal Analysis of Hyperspectral Images from HYPSO-1/2 Cube Satellites", 2025 Artificial Intelligence and Image and Signal Processing for Remote Sensing XXXI, Madrid, Spain, September 2025
+- S. D. Lyken, C. Penne and M. Orlandic, "Forest Inventory Classification Using Transfer Learning from PRISMA to HYPSO-1 Hyperspectral Satellite Data", accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
+- Philip Berg, Samuel Boyle, Aria Alinejad, Milica Orlandić, WAVELET CONVOLUTIONAL NEURAL NETWORK FOR HYPERSPECTRAL IMAGE SEGMENTATION, accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
+
   
 
 ### 2024
