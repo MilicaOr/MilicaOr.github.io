@@ -31,8 +31,7 @@ permalink: /projects/
 </tr>
 <tr>
 <td markdown="span"> 2026-2029  </td>
-<td markdown="span"> SEEMAR - Smart antenna systems and edge processing for ship surveillance and 
-interference monitoring from GNSS-R equipped microsatellites  </td>
+<td markdown="span"> SEEMAR - Smart antenna systems and edge processing for ship surveillance and interference monitoring from GNSS-R equipped microsatellites  </td>
 <td markdown="span">  Project partner, PhD supervision</td>
 <td markdown="span">  Forskerprosjekt for fornyelse (tematisk utlysning) </td>
 </tr>
