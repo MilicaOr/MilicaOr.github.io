@@ -30,19 +30,19 @@ permalink: /projects/
 </tr>
 <tr>
 <td markdown="span"> 2022-2023  </td>
-<td markdown="span"> FauBai  </td>
+<td markdown="span"> Fpga Acceleration for pUshBroom sAtellite Imagery (FauBai)  </td>
 <td markdown="span">  Technical lead NTNU</td>
 <td markdown="span">  ESA</td>
 </tr>
 <tr>
 <td markdown="span"> 2023-2027  </td>
-<td markdown="span"> ARIEL  </td>
+<td markdown="span"> Real-Time Remote Hyperspectral Imaging on Aerial Vehicles and Small Satellites (ARIEL)  </td>
 <td markdown="span">  Project leader, PhD supervision</td>
 <td markdown="span">  NFR IKTPLUSS</td>
 </tr>
 <tr>
 <td markdown="span"> 2025-2029  </td>
-<td markdown="span"> AutoSatOp  </td>
+<td markdown="span"> Automatic super agile small-satelitte operations (AutoSatOp)  </td>
 <td markdown="span">  Project partner, PhD supervision</td>
 <td markdown="span">  NFR </td>
 </tr>
