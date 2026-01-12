@@ -55,8 +55,8 @@ permalink: /projects/
 <tr>
 <td markdown="span"> 2022-2025  </td>
 <td markdown="span">   Observational Pyramid with Hyperspectral Nano-Satellites for Ocean Science (HYPSCI) </td>
-<td markdown="span">  NFR and NTNU (fellesløftet)</td>
 <td markdown="span">  Project partner, PhD supervision</td>
+<td markdown="span">  NFR and NTNU (fellesløftet)</td>
 </tr>
 <tr>
 <td markdown="span"> 2026-2029  </td>
@@ -79,6 +79,7 @@ interference monitoring from GNSS-R equipped microsatellites (SEEMAR) </td>
 <td markdown="span">  NFR SFI</td>
 </tr>
 </table>
+
 ### MASSIVE project
 
 We have proposed a concerted and unified cross-disciplinary focus on designing, building and operating small satellites as parts of an autonomous system for marine observation, surveillance and communication. 
