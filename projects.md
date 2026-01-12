@@ -13,7 +13,7 @@ permalink: /projects/
 </colgroup>
 <tr>
 <td markdown="span"> 2026-2034  </td>
-<td markdown="span">  NICE - Norwegian Center for Intelligent Computers and Electronics </td>
+<td markdown="span">  **NICE** - Norwegian Center for Intelligent Computers and Electronics </td>
 <td markdown="span">  Work package leader </td>
 <td markdown="span">  NFR SFI</td>
 </tr>
