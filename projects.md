@@ -73,7 +73,7 @@ interference monitoring from GNSS-R equipped microsatellites (SEEMAR) </td>
 <td markdown="span">  Forskerprosjekt for fornyelse (tematisk utlysning) </td>
 </tr>
 <tr>
-<td markdown="span"> 2026-2029  </td>
+<td markdown="span"> 2026-2034  </td>
 <td markdown="span">  Norwegian Center for Intelligent Computers and Electronics (NICE) </td>
 <td markdown="span">  Work package leader </td>
 <td markdown="span">  NFR SFI</td>
