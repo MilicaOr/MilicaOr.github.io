@@ -15,27 +15,23 @@ permalink: /students/
  <col width="40%" />
 </colgroup>
 <tr>
-<td markdown="span"><img src="/_images/erling.JPG" alt="drawing" width="150"/> </td>
-<td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)
-</td>
-<td markdown="span">[Predictable computing for cyber-physical systems](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3120111)
-</td>
+<td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)</td>
+<td markdown="span">[Predictable computing for cyber-physical systems](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3120111)</td>
 </tr>
 <tr>
-<td markdown="span"> <img src="/_images/djordjije.jpg" alt="drawing" width="150"/>  </td>
-<td markdown="span">[Đorđije Bošković](https://www.ntnu.edu/employees/dordije.boskovic)</td>
-</tr>
-<tr>
-<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
 <td markdown="span">[Corrado Chiantante](https://www.ntnu.edu/employees/corrado.chiatante)</td>
 </tr>
 <tr>
-<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
 <td markdown="span">[Cameron Louis Penne](https://www.ntnu.no/ansatte/cameron.l.penne)</td>
 </tr>
 <tr>
-<td markdown="span"> <img src="/_images/No_photo.png" alt="drawing" width="150"/>  </td>
 <td markdown="span">[Samuel Boyle](https://www.ntnu.edu/employees/samuel.boyle)</td>
+</tr>
+<tr>
+<td markdown="span">[Erik Lewerenz](https://www.ntnu.no/ansatte/erik.lewerenz)</td>
+</tr>
+<tr>
+<td markdown="span">[Simen Eine](https://www.ntnu.edu/employees/simen.l.eine)</td>
 </tr>
 </table>
 ## MSc. students
