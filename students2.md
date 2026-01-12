@@ -47,13 +47,11 @@ permalink: /students/
 </tr>
 <tr>
 <td markdown="span">Eirik Brandvik Langseth  </td>
-<td markdown="span"> [Wildfire Classification of Hyperspectral Images] (https://nva.sikt.no/registration/0199c7fa3274-62fae2ec-ef5d-4932-bc2a-2dd10b447550)
-</td>
+<td markdown="span"> [Wildfire Classification of Hyperspectral Images](https://nva.sikt.no/registration/0199c7fa3274-62fae2ec-ef5d-4932-bc2a-2dd10b447550)</td>
 </tr>
 <tr>
 <td markdown="span"> Sif Anna Lyken </td>
-<td markdown="span"> [Cross-Sensor Transfer Learning for Tree Species Classification Using PRISMA and HYPSO-1 Hyperspectral Imagery](https://nva.sikt.no/registration/0199c7fa47f6-45609c2e-bf6c-41ab-b709-b43faf875b77)
-</td>
+<td markdown="span"> [Cross-Sensor Transfer Learning for Tree Species Classification Using PRISMA and HYPSO-1 Hyperspectral Imagery](https://nva.sikt.no/registration/0199c7fa47f6-45609c2e-bf6c-41ab-b709-b43faf875b77)</td>
  </tr>
 <tr>
  <td markdown="span"> Philip Berg </td>
