@@ -13,7 +13,7 @@ permalink: /projects/
 </colgroup>
 <tr>
 <td markdown="span"> 2026-2034  </td>
-<td markdown="span">  **NICE** - Norwegian Center for Intelligent Computers and Electronics </td>
+<td markdown="span">  NICE - Norwegian Center for Intelligent Computers and Electronics </td>
 <td markdown="span">  Work package leader </td>
 <td markdown="span">  NFR SFI</td>
 </tr>
@@ -57,7 +57,7 @@ interference monitoring from GNSS-R equipped microsatellites  </td>
 <tr>
 <td markdown="span"> 2022-2023  </td>
 <td markdown="span">  FauBai - Fpga Acceleration for pUshBroom sAtellite Imagery </td>
-<td markdown="span">  Technical lead NTNU</td>
+<td markdown="span">  Technical lead NTNU </td>
 <td markdown="span">  ESA</td>
 </tr>
 <tr>
