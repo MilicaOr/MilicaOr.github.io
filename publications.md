@@ -7,15 +7,16 @@ permalink: /publications/
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 ### 2025
 #### Journal publications
-- D. Lupu, J. L. Garrett, T. A. Johansen, M. Orlandic, I. Necoara, Quick unsupervised hyperspectral dimensionality reduction for earth observation: a comparison, IEEE Trans. Computational Imaging, 2025; https://doi.org/10.1109/TCI.2025.3555137
+- D. Lupu, J. L. Garrett, T. A. Johansen, **M. Orlandic**, I. Necoara, Quick unsupervised hyperspectral dimensionality reduction for earth observation: a comparison, IEEE Trans. Computational Imaging, 2025; https://doi.org/10.1109/TCI.2025.3555137
 - E. R. Jellum, M. Schoeberl, E. A. Lee, **M. Orlandic**, "Codesign of reactor-oriented hardware and software for cyber-physical systems", in ACM Trans. Reconfigurable Technol. Syst., doi: 10.1145/3672083, 2024
 
 #### Conference publications
 - S. Boyle, P. Mikulowski, **M. Orlandić**, Onboard Accelerator of Hyperspectral Classification For HYPSO, 14th Mediterranean Conference on Embedded Computing (MECO), DOI: 10.1109/MECO66322.2025.11049208,  June 2025
-- C. Penne, Perumthuruthil Suseelan V., M. Orlandić, Partial Least Squares Regression Chlorophyll-A Estimation pipeline for HYPSO-1 &-2 Hyperspectral Cube Satellites, IGARSS, Brisbane, Australia, August 2025,
-- C. Penne, M.Orlandic, J.Garrett, "Multimodal Analysis of Hyperspectral Images from HYPSO-1/2 Cube Satellites", 2025 Artificial Intelligence and Image and Signal Processing for Remote Sensing XXXI, Madrid, Spain, September 2025
-- S. D. Lyken, C. Penne and M. Orlandic, "Forest Inventory Classification Using Transfer Learning from PRISMA to HYPSO-1 Hyperspectral Satellite Data", accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
-- Philip Berg, Samuel Boyle, Aria Alinejad, Milica Orlandić, WAVELET CONVOLUTIONAL NEURAL NETWORK FOR HYPERSPECTRAL IMAGE SEGMENTATION, accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
+- C. Penne, Perumthuruthil Suseelan V., **M. Orlandić**, Partial Least Squares Regression Chlorophyll-A Estimation pipeline for HYPSO-1 &-2 Hyperspectral Cube Satellites, IGARSS, Brisbane, Australia, August 2025,
+- C. Penne, **M. Orlandic**, J.Garrett, "Multimodal Analysis of Hyperspectral Images from HYPSO-1/2 Cube Satellites", 2025 Artificial Intelligence and Image and Signal Processing for Remote Sensing XXXI, Madrid, Spain, September 2025
+- s. Boyle, C. Penne∗, A. Alinejad, D. Langer, **M. Orlandic**, "HW/SW Codesigned Calibration for HYPSO", European Data Handling &  Data Processing Conference (EDHPC), Elche, Spain, 2025
+- S. D. Lyken, C. Penne and **M. Orlandic**, "Forest Inventory Classification Using Transfer Learning from PRISMA to HYPSO-1 Hyperspectral Satellite Data", accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
+- P. Berg, S. Boyle, A. Alinejad, **M. Orlandić**, WAVELET CONVOLUTIONAL NEURAL NETWORK FOR HYPERSPECTRAL IMAGE SEGMENTATION, accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
 
   
 
@@ -25,12 +26,12 @@ permalink: /publications/
 
 
 #### Conference publications
-- D. Vorhaug, S. Boyle, S. Eine, M. Orlandić, "Development and Integration of CCSDS 123.0-B-2 FPGA Accelerator for HYPSO-1", OBPDC 2024 - 9th International Workshop on On-Board Payload Data Compression, Gran Canaria, 2-4. October 2024
-- C. Penne, M. Orlandić, J. L. Garrett, "Hyperspectral Change Detection for monitoring harmful algae blooms in aquatic scenes using independent component analysis", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
-- S. L. Eine, D. D. Langerb, R. Birkeland and M. Orlandić, "Reconfiguration of FPGA during operation of small satellite for flexible hyperspectral data compression", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
-- C. Chiatante, S. Berg, J. L. Garrett, D. Ø. Halvorsenb, R. Birkelandd, M. Orlandic, "A Coordinated Approach Using Hyperspectral Satellite and USV for Algae Bloom Monitoring in Norwegian Coastal Waters", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
-- C. Chiatante, K. Døsvik, S. Boyle, R.Birkeland, M. Orlandić, "A Design Space Exploration of onboard processing pipeline for Hyperspectral Satellites", Model-Based Space Systems and Software Engineering (MBSE2024), Bremen, Germany
--  D. Vorhaug, S. Boyle, M. Orlandić, "High-Level CCSDS 123.0-B-2 Hyperspectral Image Compressor Verification Model", Whispers 2024, Finland
+- D. Vorhaug, S. Boyle, S. Eine, **M. Orlandić**, "Development and Integration of CCSDS 123.0-B-2 FPGA Accelerator for HYPSO-1", OBPDC 2024 - 9th International Workshop on On-Board Payload Data Compression, Gran Canaria, 2-4. October 2024
+- C. Penne, **M. Orlandić**, J. L. Garrett, "Hyperspectral Change Detection for monitoring harmful algae blooms in aquatic scenes using independent component analysis", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
+- S. L. Eine, D. D. Langerb, R. Birkeland and **M. Orlandić**, "Reconfiguration of FPGA during operation of small satellite for flexible hyperspectral data compression", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
+- C. Chiatante, S. Berg, J. L. Garrett, D. Ø. Halvorsenb, R. Birkelandd, **M. Orlandic**, "A Coordinated Approach Using Hyperspectral Satellite and USV for Algae Bloom Monitoring in Norwegian Coastal Waters", 75th International Astronautical Congress (IAC), Milan, Italy, 14-18 October 2024.
+- C. Chiatante, K. Døsvik, S. Boyle, R.Birkeland, **M. Orlandić**, "A Design Space Exploration of onboard processing pipeline for Hyperspectral Satellites", Model-Based Space Systems and Software Engineering (MBSE2024), Bremen, Germany
+-  D. Vorhaug, S. Boyle, **M. Orlandić**, "High-Level CCSDS 123.0-B-2 Hyperspectral Image Compressor Verification Model", Whispers 2024, Finland
   
 ### 2023
 #### Journal publications
