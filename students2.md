@@ -43,24 +43,22 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span"> Elise Mjøen  </td>
-<td markdown="span"> 
- </td>
+<td markdown="span"> [Dimensionality Reduction and Deep Learning for Forest Classification Based on Hyperspectral HYPSO-1 Data](https://nva.sikt.no/registration/019a0abae5ac-f0ada59d-9329-436f-b311-3a58832ff224)  </td>
 </tr>
 <tr>
 <td markdown="span">Eirik Brandvik Langseth  </td>
-<td markdown="span">
+<td markdown="span"> [Wildfire Classification of Hyperspectral Images] (https://nva.sikt.no/registration/0199c7fa3274-62fae2ec-ef5d-4932-bc2a-2dd10b447550)
 </td>
 </tr>
 <tr>
 <td markdown="span"> Sif Anna Lyken </td>
-<td markdown="span"> 
+<td markdown="span"> [Cross-Sensor Transfer Learning for Tree Species Classification Using PRISMA and HYPSO-1 Hyperspectral Imagery](https://nva.sikt.no/registration/0199c7fa47f6-45609c2e-bf6c-41ab-b709-b43faf875b77)
 </td>
  </tr>
 <tr>
  <td markdown="span"> Philip Berg </td>
-<td markdown="span"> </td>
+<td markdown="span"> [Wavelet Convolutional Neural Networks for Hyperspectral Image Segmentation](https://nva.sikt.no/registration/0199c36dc625-ec481a72-72bb-4ee5-bf9d-a7b43785997e) </td>
 </tr>
-
   <tr>
  <td markdown="span">  Piotr Mikulowski  </td>
 <td markdown="span"> </td>
