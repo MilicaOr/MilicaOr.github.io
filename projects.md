@@ -24,7 +24,7 @@ permalink: /projects/
 </tr>
 <tr>
 <td markdown="span"> 2026-2029  </td>
-<td markdown="span">   SCYMAP - Surveillance of Maritime Critical Energy Infrastructure using Space-based Multi-modal and combined
+<td markdown="span">   SCYMAP - Surveillance of Maritime Critical Energy Infrastructure using Space-based Multi-modal and combined </td>
 Active and Passive sensors  </td>
 <td markdown="span">  Project partner, PhD supervision</td>
 <td markdown="span">  NFR KSPS</td>
