@@ -16,22 +16,33 @@ permalink: /students/
 </colgroup>
 <tr>
 <td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)</td>
-<td markdown="span">[Predictable computing for cyber-physical systems](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3120111)</td>
+<td markdown="span">[Predictable computing for cyber-physical systems](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3120111)</td> 
+<td markdown="span">Co-supervisor, Thesis defence date: 20.02.2024</td> 
 </tr>
 <tr>
 <td markdown="span">[Corrado Chiantante](https://www.ntnu.edu/employees/corrado.chiatante)</td>
+<td markdown="span"></td> 
+<td markdown="span"> Supervisor</td> 
 </tr>
 <tr>
 <td markdown="span">[Cameron Louis Penne](https://www.ntnu.no/ansatte/cameron.l.penne)</td>
+<td markdown="span"></td> 
+<td markdown="span"> Supervisor</td> 
 </tr>
 <tr>
 <td markdown="span">[Samuel Boyle](https://www.ntnu.edu/employees/samuel.boyle)</td>
+<td markdown="span"></td> 
+<td markdown="span"> Supervisor</td> 
 </tr>
 <tr>
 <td markdown="span">[Erik Lewerenz](https://www.ntnu.no/ansatte/erik.lewerenz)</td>
+<td markdown="span"></td> 
+<td markdown="span"> Co-supervisor</td> 
 </tr>
 <tr>
 <td markdown="span">[Simen Eine](https://www.ntnu.edu/employees/simen.l.eine)</td>
+<td markdown="span"></td> 
+<td markdown="span"> Co-supervisor</td> 
 </tr>
 </table>
 ## MSc. students
@@ -59,19 +70,19 @@ permalink: /students/
 </tr>
   <tr>
  <td markdown="span">  Piotr Mikulowski  </td>
-<td markdown="span"> </td>
+<td markdown="span"> [Flexible imaging payload processing with FPGA accelerators](https://nva.sikt.no/registration/0199c7fbc898-ffc9cd53-f924-4d2b-a1cb-20619871577b)</td>
 </tr>  
  <tr>
  <td markdown="span"> Line Høybakk </td>
-<td markdown="span"> </td>
+<td markdown="span"> [Development of a near-infrared hyperspectral camera driver for the HYPSO-3 satellite payload](https://nva.sikt.no/registration/019b2673e795-55e4cbe0-9aa2-4dc7-a0f5-b7f8f59d0951)</td>
 </tr>    
  <tr>
  <td markdown="span">  Jan Erik Schopmeier </td>
-<td markdown="span"> </td>
+<td markdown="span"> [Enabling RGB camera burst mode for the HYPSO-2 small satellite] (https://nva.sikt.no/registration/019b2673acda-fec87d2a-9642-4620-b96e-7acc6011cc42) </td>
 </tr> 
  <tr>
  <td markdown="span">  Urban Mikic </td>
-<td markdown="span"> </td>
+<td markdown="span"> [Multiprocessor synchronisation and data management for small remote sensing satellites](https://nva.sikt.no/registration/019a2fc25c00-80ae03fa-790c-4b61-90a4-57cd74e1a06a) </td>
 </tr> 
 </table>
 ### 2023-2024
