@@ -17,7 +17,7 @@ permalink: /students/
 <tr>
 <td markdown="span">[Erling Rennemo Jellum](https://www.ntnu.no/ansatte/erling.r.jellum)</td>
 <td markdown="span">[Predictable computing for cyber-physical systems](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3120111)</td> 
-<td markdown="span">Co-supervisor, Thesis defence date: 20.02.2024</td> 
+<td markdown="span">Co-supervisor, Defended: 20.02.2024</td> 
 </tr>
 <tr>
 <td markdown="span">[Corrado Chiantante](https://www.ntnu.edu/employees/corrado.chiatante)</td>
@@ -45,6 +45,8 @@ permalink: /students/
 <td markdown="span"> Co-supervisor</td> 
 </tr>
 </table>
+
+
 ## MSc. students
 ### 2024-2025
 <table>
@@ -78,7 +80,7 @@ permalink: /students/
 </tr>    
  <tr>
  <td markdown="span">  Jan Erik Schopmeier </td>
-<td markdown="span"> [Enabling RGB camera burst mode for the HYPSO-2 small satellite] (https://nva.sikt.no/registration/019b2673acda-fec87d2a-9642-4620-b96e-7acc6011cc42) </td>
+<td markdown="span"> [Enabling RGB camera burst mode for the HYPSO-2 small satellite](https://nva.sikt.no/registration/019b2673acda-fec87d2a-9642-4620-b96e-7acc6011cc42) </td>
 </tr> 
  <tr>
  <td markdown="span">  Urban Mikic </td>
