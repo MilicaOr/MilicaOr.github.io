@@ -49,13 +49,13 @@ permalink: /projects/
 </tr>
 <tr>
 <td markdown="span"> 2022-2025  </td>
-<td markdown="span">   [HYPSCI - Observational Pyramid with Hyperspectral Nano-Satellites for Ocean Science] (https://www.ntnu.edu/smallsat/hypsci)</td>
+<td markdown="span">   [HYPSCI - Observational Pyramid with Hyperspectral Nano-Satellites for Ocean Science](https://www.ntnu.edu/smallsat/hypsci)</td>
 <td markdown="span">  Project partner, PhD supervision</td>
 <td markdown="span">  NFR and NTNU (fellesløftet)</td>
 </tr>
 <tr>
 <td markdown="span"> 2023-2027  </td>
-<td markdown="span"> ARIEL - Real-Time Remote Hyperspectral Imaging on Aerial Vehicles and Small Satellites  </td>
+<td markdown="span"> [ARIEL - Real-Time Remote Hyperspectral Imaging on Aerial Vehicles and Small Satellites](https://www.ntnu.edu/smallsat/ariel)  </td>
 <td markdown="span">  Project leader, PhD supervision</td>
 <td markdown="span">  NFR IKTPLUSS</td>
 </tr>
@@ -85,14 +85,5 @@ permalink: /projects/
 </tr>
 </table>
 
-### MASSIVE project
-
-We have proposed a concerted and unified cross-disciplinary focus on designing, building and operating small satellites as parts of an autonomous system for marine observation, surveillance and communication. 
-
-### ADRASSO project
-
-The  consortium working on ADRASSO project consists of DNV GL, Norsk Elektro Optikk, Idletechs, NTNU  and Jotun.
-
-### Elo-Hyp
 
 The  consortium working on Elo-Hyp project consists of  University Politehnica of Bucharest, NTNU, University of Bucharest and Clinical Coltea Hospital.
