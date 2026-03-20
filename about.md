@@ -13,6 +13,10 @@ Topic Editor in [MDPI Electronics](https://www.mdpi.com/journal/electronics/topi
 
 ### Current Focus
 
+[NTNU SmallSatLab](https://www.ntnu.edu/smallsat)
+
+Norwegian Center for Intelligent Computers and Electronics - [SFI NICE](https://www.ntnu.edu/nice)
+
 Image processing, Hyperspectral imaging; Compression (Image, Video, HSI), Remote sensing, Compressive sensing; 
 
 High-performance computing; Digital design, Reconfigurable computing and FPGAs, Systems-on-the chip/module, embedded systems, electronic systems engineering, satellite payload systems, 
