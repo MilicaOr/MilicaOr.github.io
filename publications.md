@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
+### 2026
+#### Conference publications
+C. Penne, , **M. Orlandić**, S. V. Perumthuruthil, "Analysis of TSIS-1 Solar Spectrum Ffor HYPSO-2 Hyperspectral Data Quality", accepted for presentation, IGARSS 2026
+
 ### 2025
 #### Journal publications
 - D. Lupu, J. L. Garrett, T. A. Johansen, **M. Orlandic**, I. Necoara, Quick unsupervised hyperspectral dimensionality reduction for earth observation: a comparison, IEEE Trans. Computational Imaging, 2025; https://doi.org/10.1109/TCI.2025.3555137
@@ -15,8 +19,8 @@ permalink: /publications/
 - C. Penne, Perumthuruthil Suseelan V., **M. Orlandić**, Partial Least Squares Regression Chlorophyll-A Estimation pipeline for HYPSO-1 &-2 Hyperspectral Cube Satellites, IGARSS, Brisbane, Australia, August 2025,
 - C. Penne, **M. Orlandic**, J.Garrett, "Multimodal Analysis of Hyperspectral Images from HYPSO-1/2 Cube Satellites", 2025 Artificial Intelligence and Image and Signal Processing for Remote Sensing XXXI, Madrid, Spain, September 2025
 - s. Boyle, C. Penne∗, A. Alinejad, D. Langer, **M. Orlandic**, "HW/SW Codesigned Calibration for HYPSO", European Data Handling &  Data Processing Conference (EDHPC), Elche, Spain, 2025
-- S. D. Lyken, C. Penne and **M. Orlandic**, "Forest Inventory Classification Using Transfer Learning from PRISMA to HYPSO-1 Hyperspectral Satellite Data", accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
-- P. Berg, S. Boyle, A. Alinejad, **M. Orlandić**, WAVELET CONVOLUTIONAL NEURAL NETWORK FOR HYPERSPECTRAL IMAGE SEGMENTATION, accepted for presentation, WHISPERS 2025, Bellaterra, Spain.
+- S. D. Lyken, C. Penne and **M. Orlandic**, "Forest Inventory Classification Using Transfer Learning from PRISMA to HYPSO-1 Hyperspectral Satellite Data", WHISPERS 2025, Bellaterra, Spain.
+- P. Berg, S. Boyle, A. Alinejad, **M. Orlandić**, WAVELET CONVOLUTIONAL NEURAL NETWORK FOR HYPERSPECTRAL IMAGE SEGMENTATION, WHISPERS 2025, Bellaterra, Spain.
 
   
 
