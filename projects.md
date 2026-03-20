@@ -13,7 +13,7 @@ permalink: /projects/
 </colgroup>
 <tr>
 <td markdown="span"> 2026-2034  </td>
-<td markdown="span">  NICE - Norwegian Center for Intelligent Computers and Electronics </td>
+<td markdown="span">  [NICE - Norwegian Center for Intelligent Computers and Electronics](https://www.ntnu.edu/nice) </td>
 <td markdown="span">  Work package leader </td>
 <td markdown="span">  NFR SFI</td>
 </tr>
@@ -42,8 +42,14 @@ permalink: /projects/
 <td markdown="span">  NFR IKTPLUSS</td>
 </tr>
 <tr>
+<td markdown="span"> 2022-2026  </td>
+<td markdown="span">  [A system-of-systems approach to real-time integrated ocean environmental monitoring (SoS)](https://www.ntnu.edu/smallsat/system-of-systems) </td>
+<td markdown="span">  Work package leader, PhD supervision</td>
+<td markdown="span">  NFR IKTPLUSS</td>
+</tr>
+<tr>
 <td markdown="span"> 2022-2025  </td>
-<td markdown="span">   HYPSCI - Observational Pyramid with Hyperspectral Nano-Satellites for Ocean Science </td>
+<td markdown="span">   [HYPSCI - Observational Pyramid with Hyperspectral Nano-Satellites for Ocean Science] (https://www.ntnu.edu/smallsat/hypsci)</td>
 <td markdown="span">  Project partner, PhD supervision</td>
 <td markdown="span">  NFR and NTNU (fellesløftet)</td>
 </tr>
