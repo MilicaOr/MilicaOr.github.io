@@ -7,7 +7,7 @@ permalink: /publications/
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 ### 2026
 #### Conference publications
-- C. Penne, , **M. Orlandić**, S. V. Perumthuruthil, "Analysis of TSIS-1 Solar Spectrum Ffor HYPSO-2 Hyperspectral Data Quality", accepted for presentation, IGARSS 2026
+- C. Penne,  **M. Orlandić**, S. V. Perumthuruthil, "Analysis of TSIS-1 Solar Spectrum Ffor HYPSO-2 Hyperspectral Data Quality", accepted for presentation, IGARSS 2026
 
 ### 2025
 #### Journal publications
