@@ -16,6 +16,10 @@ I received a B.Sc. and M.Sc. degrees in electrical engineering from the Universi
 
 - Norwegian Center for Intelligent Computers and Electronics - [SFI NICE](https://www.ntnu.edu/nice)
 
+- Member of "Observation pyramid" team for [Strategic resarch area "NTNU Ocean and Coast"](https://www.ntnu.edu/ocean-coast)
+
+- NTNU representative in Norwegian industrial forum for space activities - [NIFRO](https://nifro.no/en/)
+
 Research focus areas:
 Image processing, Hyperspectral imaging; Compression (Image, Video, HSI), Remote sensing, Compressive sensing; 
 
