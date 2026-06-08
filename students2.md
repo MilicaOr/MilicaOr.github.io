@@ -48,6 +48,62 @@ permalink: /students/
 
 
 ## MSc. students
+### 2025-2026
+<table>
+<colgroup>
+ <col width="30%" />
+<col width="70%" />
+</colgroup>
+<tr>
+<td markdown="span">Andresen, Nikolai   </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span">Bergem, Jens Fredrik   </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Fathallah, Wassim  </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Henriksen, Lars Johan Solheim  </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Johansen, Christoffer Sørhaug   </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Karunanithy, Nissanth  </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Selfors, Jonas Indbjør  </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Liebig, Marius Stefan  </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Nørsett, Aasmund Gabestad   </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span"> Gabriela Avagian </td> 
+<td markdown="span">  </td>
+</tr>
+<tr>
+<td markdown="span">Klemetsdal, Renate Heierstad   </td> 
+<td markdown="span">  </td>
+</tr> 
+<tr>
+<td markdown="span">Navrud, Aleksander    </td> 
+<td markdown="span">  </td>
+</tr>  
+</table>
+
 ### 2024-2025
 <table>
 <colgroup>
