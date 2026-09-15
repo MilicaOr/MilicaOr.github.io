@@ -102,6 +102,19 @@ permalink: /students/
 <td markdown="span">Navrud, Aleksander    </td> 
 <td markdown="span">  </td>
 </tr>  
+ <tr>
+<td markdown="span">Molvik, Jo Vegard  </td> 
+<td markdown="span"> [Deep Blind Blur-Kernel Estimation for RGB and Hyperspectral Images](https://nva.sikt.no/registration/019e87221db9-7e2572d0-04c8-493b-8ef3-2fe878059462)  </td>
+</tr>
+ <tr>
+<td markdown="span">Achour, Matias  </td> 
+<td markdown="span"> [HoumaDETR: A Self-Supervised and Transformer-based Approach for Ship Detection Using Multispectral Satellite Imagery](https://nva.sikt.no/registration/019c74b30bc8-1461c8b0-b773-4b9e-80ae-11c1b4731005)  </td>
+</tr>
+<tr>
+<td markdown="span">Achour, Matias  </td> 
+<td markdown="span"> [Modal Liquid Propellant Measurement in Zero-Gravity](https://nva.sikt.no/registration/019c55ccc856-360c4133-5a5f-4d0b-93a7-db31e68fa93f)  </td>
+</tr>
+
 </table>
 
 ### 2024-2025
