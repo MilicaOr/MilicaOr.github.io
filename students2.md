@@ -155,7 +155,14 @@ permalink: /students/
  <td markdown="span">  Urban Mikic </td>
 <td markdown="span"> [Multiprocessor synchronisation and data management for small remote sensing satellites](https://nva.sikt.no/registration/019a2fc25c00-80ae03fa-790c-4b61-90a4-57cd74e1a06a) </td>
 </tr> 
+ <tr>
+ <td markdown="span">  Jåstad, Odin Lid </td>
+<td markdown="span"> [On Valispace: A Digital Engineering Tool in Academic Satellite Projects](https://nva.sikt.no/registration/0199c37bd13a-22e6e2e1-e3db-4f5e-a496-dea926eea5fa) </td>
+</tr> 
 </table>
+
+
+
 ### 2023-2024
 <table>
 <colgroup>
