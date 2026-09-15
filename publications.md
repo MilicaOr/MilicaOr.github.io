@@ -6,6 +6,10 @@ permalink: /publications/
 
 [Google Scholar publication statistics](https://scholar.google.no/citations?user=9QmGHaYAAAAJ&hl=en)
 ### 2026
+#### Journal Publications
+- C. Chiatante, H. S. Løvås, Dennis Langer, J. L. Garrett, R. Birkeland, M. Orlandic, T. A. Johansen, Memory-Efficient Georeferencing of Segmented Satellite Imagery. IEEE J.  Selected Topics in Applied Earth Observations and Remote Sensing, 2026 
+- C. Chiatante, C. Penne, S. Berg, P. S. Vishnu, D. Langer, J. L. Garrett, B. A. Kristiansen, M. Orlandic, R. Birkeland, A. L. King, T. A. Johansen, Coastal Algal Bloom Monitoring using Satellites and Ships of Opportunity - Operations and Data Analysis, IEEE Access, 2026; doi: 10.1109/ACCESS.2026.3733287
+  
 #### Conference publications
 - C. Penne,  **M. Orlandić**, S. V. Perumthuruthil, "Analysis of TSIS-1 Solar Spectrum Ffor HYPSO-2 Hyperspectral Data Quality", accepted for presentation, IGARSS 2026
 
